@@ -1,4 +1,4 @@
-<h1 align="center">  TOUR GUIDE WEBSITE TIJUANA, B.C. 🗺️ </h1>
+<h1 align="center">  ALAMO WEB 🗺️ </h1>
 <p align="center"><img src="images/home-slide-1.jpg" width="1920px" height="360px" alt="title"></p>
 
 # Information 📄
