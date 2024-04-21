@@ -1,5 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
+/* Estilos para el menú */
+.menu {
+   position: relative;
+   display: inline-block;
+   font-size: 20px;
+}
+.menu-content {
+   display: none;
+   position: absolute;
+   background-color: #f9f9f9;
+   min-width: 160px;
+   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   z-index: 1;
+}
+.menu:hover .menu-content {
+   display: block;
+}
+.menu-item {
+   padding: 12px 16px;
+   text-decoration: none;
+   display: block;
+   color: darkblue;
+}
+.menu-item:hover {
+   background-color: rgb(255, 255, 158);
+}
+
 :root{
    --main-color:#8e44ad;
    --black:#222;
