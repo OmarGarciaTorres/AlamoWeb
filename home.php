@@ -50,7 +50,7 @@
             <img src="images/alamomenu.png" alt="AlamoMenu">
             <div class="menu-content">
                   <a href="home.php" class="menu-item">Inicio</a>
-                  <a href="#" class="menu-item">Directorio</a>
+                  <a href="places.php" class="menu-item">Directorio</a>
                   <a href="#" class="menu-item">Actividades</a>
                   <a href="#" class="menu-item">Blog de Viajes</a>
             </div>
@@ -190,9 +190,9 @@
          <div class="content">
             <h3>¿Qué encontraras aqui?</h3>
             <p>Se trata de un sitio web dedicado para los turistas o personas en general que deseen conocer mas y visitar diversos lugares de la ciudad de Tijuana, B.C. 
-               El objetivo principal del sitio es proporcionar a los visitantes una plataforma fácil y conveniente para buscar 
-               y reservar lugares a los cuales poder pasar un buen rato y conocer la ciudad en general, asi mismo poder brindarles algunos guias profesionales 
-               que los acompañen durante su estancia en Tijuana.</p>
+            Este sitio web proporcionará a los clientes de Alamo información detallada sobre los mejores lugares turísticos de la ciudad, actividades para hacer, 
+            restaurantes recomendados y eventos locales.  Podrán navegar fácilmente por el sitio para encontrar recomendaciones personalizadas según sus intereses y 
+            preferencias. Además, podrán dejar reseñas y calificaciones, lo que ayudará a otros viajeros a tomar decisiones informadas.</p>
          </div>
 
       </section>
