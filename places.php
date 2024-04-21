@@ -73,7 +73,13 @@
          <select id="filter">
                 <option value="todos">Todos</option>
                 <option value="playas">Playas</option>
-                <option value="montañas">Montañas</option>
+                <option value="restaurantes">Restaurantes</option>
+                <option value="hoteles">Hoteles</option>
+                <option value="parques">Parques</option>
+                <option value="cines">Cines</option>
+                <option value="plazas">Plazas</option>
+                <option value="centroco">Centro Comercial</option>
+                <option value="mercados">Super Mercados</option>
                 <!-- Agrega más opciones de filtrado aquí -->
             </select>
       </div>
@@ -152,27 +158,6 @@
         </div>
       </main>
       <!-- termino sobre la sección de lugares  -->
-
-      <!-- inicio sobre la sección de lugares  -->
-
-      <h1 class="heading-title"> - </h1>
-
-      <section class="home-about">
-
-         <div class="image">
-            <img src="images/l1.jpg" alt="">
-         </div>
-
-         <div class="content">
-            <h3>Parque Morelos</h3>
-            <p>Parque estatal de 1987; cuenta con un lago, renta de botes, ciclovías, senderos para caminatas y un zoológico.</p>
-            <a target="_blank" href="https://maps.app.goo.gl/KpJwaHjCMGGsXZjb6" class="btn">ubicación</a><br>
-            <a href="book.php" class="btn">reserva ahora</a>
-         </div>
-
-      </section>
-      
-      <!-- termino sobre la sección de lugares -->
 
       <!-- comienza la sección de pie de página  -->
 
