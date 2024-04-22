@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
    <head>
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -51,8 +51,8 @@
             <div class="menu-content">
                   <a href="home.php" class="menu-item">Inicio</a>
                   <a href="places.php" class="menu-item">Directorio</a>
-                  <a href="#" class="menu-item">Actividades</a>
-                  <a href="#" class="menu-item">Blog de Viajes</a>
+                  <a href="activities.php" class="menu-item">Actividades</a>
+                  <a href="blog.php" class="menu-item">Blog de Viajes</a>
             </div>
          </div>
          <div id="menu-btn" class="fas fa-bars"></div>
