@@ -108,52 +108,50 @@
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="card">
-            <img src="images/parque1.png" alt="Parque1">
-            <h2>Parque Morelos</h2>
-            <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
-               donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
+            <img src="images/plazario.jpg" alt="plaza rio">
+            <h2>Plaza Rio Tijuana</h2>
+            <p>Este centro comercial tiene tiendas como Sephora, Apple Store, Starbucks y un cine enorme.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="card">
-            <img src="images/parque1.png" alt="Parque1">
-            <h2>Parque Morelos</h2>
-            <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
-               donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
+            <img src="images/avrevolucion.jpg" alt="avrevolucion">
+            <h2>Avenida Revolución</h2>
+            <p>Es un edificio muy bonito e histórico!!! antiguamente era un centro deportivo de Pelota vasca (Jai alai). </p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="card">
-            <img src="images/parque1.png" alt="Parque1">
-            <h2>Parque Morelos</h2>
-            <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
-               donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
+            <img src="images/mullme.jpg" alt="mullme">
+            <h2>Mullme</h2>
+            <p>En el Museo de la Lucha Libre Mexicana se exhibe una gran colección privada de objetos relacionados al mundo de la Lucha Libre, 
+               con más de 9,000 artículos entre máscaras originales, tazas, cintos de campeonato, fotografías, llaveros, alcancías, historietas, 
+               luchadores de plástico en diferentes poses y tamaños, los diferentes tipos de revistas especializadas al deporte del pancracio, y más.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="card">
-            <img src="images/parque1.png" alt="Parque1">
-            <h2>Parque Morelos</h2>
-            <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
-               donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
+            <img src="images/mercado.jpg" alt="mercado">
+            <h2>Mercado El Popo</h2>
+            <p>Hay esponjas naturales, prensas de tortilla de madera, piedras para moler molcajete, piedra pómez y mucho más.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="card">
-            <img src="images/parque1.png" alt="Parque1">
-            <h2>Parque Morelos</h2>
-            <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
-               donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
+            <img src="images/catedral.jpg" alt="catedral">
+            <h2>Catedral de Nuestra Señora de Guadalupe</h2>
+            <p>Esta es una iglesia católica clásica en el medio de Tijuana que atiende las necesidades de los habitantes locales.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="card">
-            <img src="images/parque1.png" alt="Parque1">
-            <h2>Parque Morelos</h2>
-            <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
-               donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
+            <img src="images/estadio.jpg" alt="estadio">
+            <h2>Estadio Caliente</h2>
+            <p>Dicen que la afición a un equipo lo es todo, y los Xolos tienen eso, una afición que muere por ellos no importa que ganen o pierdan.
+               Los partidos siempre son en la noche, pero si quieres vivir la fiesta de verdad, llega desde temprano, abre la cajuela de tu coche, saca el asador y 
+               las cervezas y prepara tu carne, eso si, no olvides invitar a un monton de amigos. El estacionamiento es una fiesta por si misma.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="card">
-            <img src="images/parque1.png" alt="Parque1">
-            <h2>Parque Morelos</h2>
-            <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
-               donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
+            <img src="images/casino.jpg" alt="casino">
+            <h2>Casino Caliente</h2>
+            <p>Un casino de una franquicia muy publicitada que al encontrarse en la Avenida Revolución es una opción para divertirse .
+               Ambiente propio de un casino y para jugar al entrar pides tu tarjeta.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
       </main>
