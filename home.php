@@ -50,7 +50,7 @@
             <img src="images/alamomenu.png" alt="AlamoMenu">
             <div class="menu-content">
                   <a href="home.php" class="menu-item">Inicio</a>
-                  <a href="places.php" class="menu-item">Directorio</a>
+                  <a href="directory.php" class="menu-item">Directorio</a>
                   <a href="activities.php" class="menu-item">Actividades</a>
                   <a href="blog.php" class="menu-item">Blog de Viajes</a>
             </div>
@@ -121,21 +121,21 @@
          <div class="box-container">
 
             <div class="box">
-               <a href="package.php"><img src="images/directorio-img.png" alt=""></a>
+               <a href="directory.php"><img src="images/directorio-img.png" alt=""></a>
                <h3>Directorio</h3>
             </div>
 
             <div class="box">
-               <a href="package.php"><img src="images/actividad-img.png" alt=""></a>
+               <a href="activities.php"><img src="images/actividad-img.png" alt=""></a>
                <h3>Actividades</h3>
             </div>
 
             <div class="box">
-               <a href="package.php"><img src="images/blog-img.png" alt=""></a>
+               <a href="blog.php"><img src="images/blog-img.png" alt=""></a>
                <h3>Blog</h3>
             </div>
 
-            <div class="box">
+            <!-- <div class="box">
                <a href="package.php"><img src="images/chatbot-img.png" alt=""></a>
                <h3>ChatBot</h3>
             </div>
@@ -148,7 +148,7 @@
             <div class="box">
                <a href="package.php"><img src="images/resena-img.png" alt=""></a>
                <h3>Reseñas</h3>
-            </div>
+            </div> -->
 
          </div>
 
@@ -172,7 +172,7 @@
                está repleta de tiendas de recuerdos y animados bares. Entre los sitios icónicos se incluyen el palacio Jai Alai Frontón y el 
                Centro Cultural Tijuana, un moderno complejo cultural en el distrito Zona Río. La ciudad tiene estadios donde se presentan eventos de lucha libre, 
                mientras que la ciudad de Rosarito tiene playas de arena.</p>
-            <a href="about.php" class="btn">Leer más</a>
+            <!--<a href="about.php" class="btn">Leer más</a>-->
          </div>
 
       </section>

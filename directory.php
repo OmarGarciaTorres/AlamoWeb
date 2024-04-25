@@ -13,7 +13,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
       <!-- enlace de archivo css personalizado  -->
-      <link rel="stylesheet" href="css/places.css">
+      <link rel="stylesheet" href="css/directory.css">
 
       <!-- visualizar favicon para la pagina web desde distintos dispositivos -->
       <link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">
@@ -72,13 +72,11 @@
          <input type="text" id="search" placeholder="Buscar lugar...">
          <select id="filter">
                 <option value="todos">Todos</option>
-                <option value="playas">Playas</option>
-                <option value="restaurantes">Restaurantes</option>
-                <option value="hoteles">Hoteles</option>
-                <option value="parques">Parques</option>
                 <option value="cines">Cines</option>
+                <option value="hoteles">Hoteles</option>
+                <option value="parques">Parques y Playas</option>
                 <option value="plazas">Plazas</option>
-                <option value="centroco">Centro Comercial</option>
+                <option value="restaurantes">Restaurantes</option>
                 <option value="mercados">Super Mercados</option>
                 <!-- Agrega más opciones de filtrado aquí -->
             </select>
