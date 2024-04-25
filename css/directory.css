@@ -161,10 +161,28 @@ main {
     max-width: 300px;
     text-align: center;
 }
-
 img {
     max-width: 100%;
     height: auto;
+}
+
+/* Estilos para las opciones de categoría */
+.categoria-select {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 200px;
+}
+/* Estilos para los contenedores de lugares */
+.lugar {
+    display: none;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    max-width: 300px;
+    text-align: center;
 }
 
 /*Estilos Pie de Pagina*/
