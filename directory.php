@@ -68,7 +68,7 @@
       </div>
 
       <div class="filter">
-         <input type="text" id="busqueda" placeholder="Buscar lugar...">
+         <input type="text" id="busqueda" placeholder="Buscar lugar..." onkeyup="buscarLugar(event)">
          <select class="categoria-select" onchange="filtrarLugares(this.value)">>
                 <option value="Todos">Todos</option>
                 <option value="Cines">Cines</option>
@@ -85,63 +85,63 @@
       <!-- parques  -->     
       <main>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque1">
+            <img src="images/directory/parque1.png" alt="parque1">
             <h2>Parque Morelos</h2>
             <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
                donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque2">
+            <img src="images/directory/parque2.png" alt="parque2">
             <h2>Parque Teniente Guerrero</h2>
             <p>Un parque histórico con áreas verdes, esculturas y fuentes, ideal para dar un paseo relajante y disfrutar del ambiente tranquilo en el corazón de la ciudad.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque3">
+            <img src="images/directory/parque3.jpg" alt="parque3">
             <h2>Parque de la Amistad</h2>
             <p>Este parque representa la amistad entre México y Japón, con jardines japoneses, esculturas y espacios para relajarse y disfrutar del entorno.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque4">
+            <img src="images/directory/parque4.webp" alt="parque4">
             <h2>Parque Nacional Constitución de 1857</h2>
             <p>Este parque nacional ofrece una variedad de senderos que serpentean a través de bosques de pinos y áreas escénicas. 
                El sendero más popular es el que conduce al Pico El Águila, ofreciendo vistas panorámicas impresionantes. </p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque5">
+            <img src="images/directory/parque5.webp" alt="parque5">
             <h2>Parque Teresita Paramo</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque6">
+            <img src="images/directory/parque6.jpg" alt="parque6">
             <h2>Parque Buena Vista</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque7">
+            <img src="images/directory/parque7.jpg" alt="parque7">
             <h2>Parque el Valle</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque8">
+            <img src="images/directory/parque8.jpg" alt="parque8">
             <h2>Parque de las Americas</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque9">
+            <img src="images/directory/parque9.jpg" alt="parque9">
             <h2>Parque de la Espiritualidad</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
-            <img src="images/parque1.png" alt="parque10">
+            <img src="images/directory/parque10.jpg" alt="parque10">
             <h2>Mundo Divertido</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
@@ -150,61 +150,61 @@
       
       <!-- cines  -->
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine1">
+            <img src="images/directory/cine1.jpg" alt="cine1">
             <h2>Cinemex Mundo Divertido</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine2">
+            <img src="images/directory/cine2.webp" alt="cine2">
             <h2>Cinemex Peninsula</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine3">
+            <img src="images/directory/cine3.png" alt="cine3">
             <h2>Cinemex Pavilion</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine4">
+            <img src="images/directory/cine4.jpg" alt="cine4">
             <h2>Cinemex Macroplaza</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine5">
+            <img src="images/directory/cine5.jpg" alt="cine5">
             <h2>Cinemex Loma Bonita</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine6">
+            <img src="images/directory/cine6.jpg" alt="cine6">
             <h2>Cinemex Plaza Alameda</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine7">
+            <img src="images/directory/cine7.jpg" alt="cine7">
             <h2>Cinepolis Plaza Rio</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine8">
+            <img src="images/directory/cine8.jpg" alt="cine8">
             <h2>Cinemex Plaza Minarete</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine9">
+            <img src="images/directory/cine9.jpg" alt="cine9">
             <h2>Cinemex Pacifico</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Cines">
-            <img src="images/parque1.png" alt="cine10">
+            <img src="images/directory/cine10.jpg" alt="cine10">
             <h2>Cinepolis Plaza Monarca</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
@@ -213,61 +213,61 @@
 
       <!-- hoteles  -->
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel1">
+            <img src="images/directory/hotel1.jpg" alt="hotel1">
             <h2>Hotel Extended Suites Tijuana Macroplaza</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel2">
+            <img src="images/directory/hotel2.jpg" alt="hotel2">
             <h2>Hotel Jardin</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel3">
+            <img src="images/directory/hotel3.jpg" alt="hotel3">
             <h2>Hotel Astor</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel4">
+            <img src="images/directory/hotel4.jpg" alt="hotel4">
             <h2>Baja Inn La Mesa</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel5">
+            <img src="images/directory/hotel5.jpg" alt="hotel5">
             <h2>City Express Junior by Marriott Tijuana Otay</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel6">
+            <img src="images/directory/hotel6.jpg" alt="hotel6">
             <h2>Sleep Inn Tijuana</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel7">
+            <img src="images/directory/hotel7.jpg" alt="hotel7">
             <h2>Gamma Tijuana</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel8">
+            <img src="images/directory/hotel8.jpg" alt="hotel8">
             <h2>One Tijuana Otay</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel9">
+            <img src="images/directory/hotel9.jpg" alt="hotel9">
             <h2>City Express</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Hoteles">
-            <img src="images/parque1.png" alt="hotel10">
+            <img src="images/directory/hotel10.jpg" alt="hotel10">
             <h2>Hotel Frontiere</h2>
             <p></p>
             <a href="book.php" class="btn">Mas detalles</a>
@@ -275,35 +275,221 @@
       <!-- hoteles  -->
 
       <!-- plazas  -->
-
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza1.jpg" alt="plaza1">
+            <h2>Plaza Galerías Hipódromo</h2>
+            <p>Plaza Galerías Hipódromo es un destino de compras y entretenimiento con una amplia selección de tiendas de moda, restaurantes y actividades recreativas.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza2.jpg" alt="plaza2">
+            <h2>Plaza Paseo Chapultepec</h2>
+            <p>Plaza Paseo Chapultepec es una plaza elegante que ofrece una mezcla de tiendas de moda, restaurantes y cafeterías en un ambiente agradable y moderno.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza3.jpg" alt="plaza3">
+            <h2>Plaza Mundo Divertido</h2>
+            <p>Plaza Mundo Divertido combina un centro comercial con un parque de diversiones, ofreciendo tiendas, restaurantes y juegos mecánicos para toda la familia.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza4.jpg" alt="plaza4">
+            <h2>Plaza Las Brisas</h2>
+            <p>Plaza Las Brisas es un destino de compras y entretenimiento con una variedad de tiendas, restaurantes y actividades para todas las edades.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza5.jpg" alt="plaza5">
+            <h2>Plaza Carrousel</h2>
+            <p>Plaza Carrousel ofrece una amplia selección de tiendas, restaurantes y servicios en un ambiente cómodo y conveniente.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza6.png" alt="plaza6">
+            <h2>Plaza Sendero Tijuana</h2>
+            <p>Plaza Sendero Tijuana es un centro comercial con una variedad de tiendas, restaurantes y entretenimiento para toda la familia.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza7.jpg" alt="plaza7">
+            <h2>Plaza Otay</h2>
+            <p>Plaza Otay ofrece una amplia gama de tiendas, restaurantes y servicios en un ambiente moderno y cómodo.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza8.jpg" alt="plaza8">
+            <h2>Plaza Monarca</h2>
+            <p>Plaza Monarca es un centro comercial que ofrece una mezcla de tiendas, restaurantes y servicios en un ambiente contemporáneo.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza9.jpg" alt="plaza9">
+            <h2>Plaza 2000</h2>
+            <p>Plaza 2000 es un centro comercial ubicado en una de las áreas más transitadas de Tijuana, ofreciendo una amplia variedad de tiendas, restaurantes y servicios.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Plazas">
+            <img src="images/directory/plaza10.jpg" alt="plaza10">
+            <h2>Plaza Río Tijuana</h2>
+            <p>Plaza Río Tijuana es uno de los centros comerciales más grandes y populares de Tijuana. Ofrece una amplia variedad de tiendas, restaurantes, cines y entretenimiento para toda la familia.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
       <!-- plazas  -->
-        <div class="lugar" data-categoria="Cines">
+
+      <!-- restaurantes  -->
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res1.jpg" alt="rest1">
+            <h2>Caesar's Restaurant</h2>
+            <p>Caesar's Restaurant es un lugar histórico conocido por ser el lugar de nacimiento de la ensalada César, ofreciendo una experiencia culinaria única y un ambiente clásico.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res2.jpeg" alt="rest2">
+            <h2>Telefónica Gastro Park</h2>
+            <p>Telefónica Gastro Park es un espacio gastronómico que alberga una variedad de puestos de comida y camiones de comida gourmet, ofreciendo una experiencia culinaria diversa y emocionante.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res3.jpg" alt="rest3">
+            <h2>Mision 19</h2>
+            <p>Mision 19 es un restaurante elegante que ofrece una experiencia culinaria sofisticada, con un enfoque en ingredientes locales y técnicas modernas.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res4.jpg" alt="rest4">
+            <h2>Café La Especial</h2>
+            <p>Café La Especial es un restaurante clásico conocido por sus deliciosos desayunos y su ambiente acogedor, ofreciendo una selección de platillos mexicanos tradicionales y café de calidad.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res5.webp" alt="rest5">
+            <h2>Tacos El Franc</h2>
+            <p>Tacos El Franc es un puesto de tacos popular que ofrece una variedad de tacos mexicanos auténticos, conocido por su carne asada y adobada.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res6.webp" alt="rest6">
+            <h2>La Querencia</h2>
+            <p>La Querencia es un restaurante que ofrece cocina mexicana contemporánea con un toque creativo, en un ambiente íntimo y acogedor.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res7.jpg" alt="rest7">
+            <h2>La Justina</h2>
+            <p>La Justina es un restaurante moderno que ofrece una variedad de platillos inspirados en la cocina mexicana y internacional, con un ambiente vibrante y elegante.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res8.jpg" alt="rest8">
+            <h2>Tacos El Gordo</h2>
+            <p>Tacos El Gordo es un lugar famoso por sus tacos de carne asada, adobada y otros sabores tradicionales, ofreciendo auténtica comida callejera mexicana en un ambiente informal.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res9.jpg" alt="rest9">
+            <h2>El Mazateño</h2>
+            <p>El Mazateño es un restaurante que ofrece auténtica cocina mexicana, especializándose en mariscos frescos y platillos típicos de la región, en un ambiente acogedor y familiar.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Restaurantes">
+            <img src="images/directory/res10.jpg" alt="rest10">
+            <h2>El Taller</h2>
+            <p>El Taller es un restaurante que combina cocina mexicana e internacional, ofreciendo una variedad de platillos creativos y deliciosos, en un ambiente moderno y acogedor.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+      <!-- restaurantes -->
+
+      <!-- mercados -->
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca1.jpg" alt="merca1">
+            <h2>Walmart</h2>
+            <p>Walmart es una cadena de supermercados internacional que ofrece una amplia variedad de productos alimenticios, artículos para el hogar, productos electrónicos y más, a precios competitivos.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca2.jpg" alt="merca2">
+            <h2>Soriana</h2>
+            <p>Soriana es una cadena de supermercados que ofrece una amplia selección de productos alimenticios, artículos para el hogar y otros productos de consumo, con un enfoque en la calidad y el servicio al cliente.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca3.jpg" alt="merca3">
+            <h2>Calimax</h2>
+            <p>Calimax es una cadena de supermercados regional que ofrece una amplia variedad de productos alimenticios frescos y envasados, así como otros productos de consumo, con un enfoque en la calidad y la frescura.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca4.jpg" alt="merca4">
+            <h2>Ley Supermercados</h2>
+            <p>Ley Supermercados es una cadena de supermercados que ofrece una amplia selección de productos alimenticios, artículos para el hogar, productos electrónicos y más, con un enfoque en la calidad y el servicio al cliente.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca5.webp" alt="merca5">
+            <h2>Comercial Mexicana</h2>
+            <p>Es una cadena de supermercados que ofrece una amplia variedad de productos alimenticios, productos para el hogar, ropa y más, con un enfoque en la calidad y la variedad.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca6.webp" alt="merca6">
+            <h2>Ley Express</h2>
+            <p>Ley Express es una tienda de conveniencia que ofrece una selección de productos básicos, como bebidas, snacks, alimentos preparados y artículos de uso diario, con un enfoque en la comodidad y la rapidez.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca7.jpg" alt="merca7">
+            <h2>OXXO</h2>
+            <p>OXXO es una cadena de tiendas de conveniencia que ofrece una selección de productos básicos, como bebidas, snacks, alimentos preparados y artículos de cuidado personal, con un enfoque en la comodidad y la accesibilidad.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca8.jpg" alt="merca8">
+            <h2>Bodega Aurrerá</h2>
+            <p>Bodega Aurrerá es una cadena de supermercados que ofrece una amplia gama de productos a precios accesibles, con un enfoque en la calidad y la economía.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca9.jpg" alt="merca9">
+            <h2>Supermercados El Florido</h2>
+            <p>Supermercados El Florido es una cadena de supermercados regional que ofrece una variedad de productos alimenticios, productos para el hogar y más, con un enfoque en la calidad y la satisfacción del cliente.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Mercados">
+            <img src="images/directory/merca10.jpg" alt="merca10">
+            <h2>Calimax plus</h2>
+            <p>Calimax Frutería es una tienda de abarrotes especializada en frutas y verduras frescas, ofreciendo una amplia selección de productos de alta calidad y frescura.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+      <!-- mercados -->
+      
+        <div class="lugar" data-categoria="">
             <img src="images/trompo1.png" alt="trompo1">
             <h2>El Trompo</h2>
             <p>Comprueba que aprender puede ser divertido en este complejo para toda la familia con cientos de juegos que 
                muestran el impacto de la ciencia y la tecnología modernas.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="lugar" data-categoria="Cines">
+        <div class="lugar" data-categoria="">
             <img src="images/cecut1.png" alt="cecut1">
             <h2>Cecut</h2>
             <p>Lleva a tu familia a descubrir el rico pasado de las Californias y a visitar exposiciones de arte, 
                jardines botánicos y un cine IMAX con forma de cúpula.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="lugar" data-categoria="Cines">
+        <div class="lugar" data-categoria="">
             <img src="images/plazario.jpg" alt="plaza rio">
             <h2>Plaza Rio Tijuana</h2>
             <p>Este centro comercial tiene tiendas como Sephora, Apple Store, Starbucks y un cine enorme.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="lugar" data-categoria="Parques">
+        <div class="lugar" data-categoria="">
             <img src="images/avrevolucion.jpg" alt="avrevolucion">
             <h2>Avenida Revolución</h2>
             <p>Es un edificio muy bonito e histórico!!! antiguamente era un centro deportivo de Pelota vasca (Jai alai). </p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="lugar" data-categoria="Parques">
+        <div class="lugar" data-categoria="">
             <img src="images/mullme.jpg" alt="mullme">
             <h2>Mullme</h2>
             <p>En el Museo de la Lucha Libre Mexicana se exhibe una gran colección privada de objetos relacionados al mundo de la Lucha Libre, 
@@ -311,19 +497,19 @@
                luchadores de plástico en diferentes poses y tamaños, los diferentes tipos de revistas especializadas al deporte del pancracio, y más.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="lugar" data-categoria="Parques">
+        <div class="lugar" data-categoria="">
             <img src="images/mercado.jpg" alt="mercado">
             <h2>Mercado El Popo</h2>
             <p>Hay esponjas naturales, prensas de tortilla de madera, piedras para moler molcajete, piedra pómez y mucho más.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="lugar" data-categoria="Parques">
+        <div class="lugar" data-categoria="">
             <img src="images/catedral.jpg" alt="catedral">
             <h2>Catedral de Nuestra Señora de Guadalupe</h2>
             <p>Esta es una iglesia católica clásica en el medio de Tijuana que atiende las necesidades de los habitantes locales.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="lugar" data-categoria="Parques">
+        <div class="lugar" data-categoria="">
             <img src="images/estadio.jpg" alt="estadio">
             <h2>Estadio Caliente</h2>
             <p>Dicen que la afición a un equipo lo es todo, y los Xolos tienen eso, una afición que muere por ellos no importa que ganen o pierdan.
@@ -331,7 +517,7 @@
                las cervezas y prepara tu carne, eso si, no olvides invitar a un monton de amigos. El estacionamiento es una fiesta por si misma.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="lugar" data-categoria="Parques">
+        <div class="lugar" data-categoria="">
             <img src="images/casino.jpg" alt="casino">
             <h2>Casino Caliente</h2>
             <p>Un casino de una franquicia muy publicitada que al encontrarse en la Avenida Revolución es una opción para divertirse .

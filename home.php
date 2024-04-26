@@ -73,7 +73,7 @@
                   <div class="content">
                      <span>Explora, Descubre, Viaja, Disfruta</span>
                      <h3>Descubre lugares en tijuana</h3>
-                     <a href="package.php" class="btn">Descubrir ahora</a>
+                     <a href="directory.php" class="btn">Descubrir ahora</a>
                   </div>
                </div>
 
@@ -81,7 +81,7 @@
                   <div class="content">
                      <span>Explora, Descubre, Viaja, Disfruta</span>
                      <h3>Comida</h3>
-                     <a href="package.php" class="btn">Descubrir ahora</a>
+                     <a href="directory.php" class="btn">Descubrir ahora</a>
                   </div>
                </div>
 
@@ -89,7 +89,7 @@
                   <div class="content">
                      <span>Explora, Descubre, Viaja, Disfruta</span>
                      <h3>Parques</h3>
-                     <a href="package.php" class="btn">Descubrir ahora</a>
+                     <a href="directory.php" class="btn">Descubrir ahora</a>
                   </div>
                </div>
 
@@ -97,7 +97,7 @@
                   <div class="content">
                      <span>Explora, Descubre, Viaja, Disfruta</span>
                      <h3>Playas</h3>
-                     <a href="package.php" class="btn">Descubrir ahora</a>
+                     <a href="directory.php" class="btn">Descubrir ahora</a>
                   </div>
                </div>
                
