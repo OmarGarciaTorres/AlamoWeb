@@ -169,14 +169,13 @@ img {
 /* Estilos para las opciones de categoría */
 .categoria-select {
     padding: 10px;
-    font-size: 16px;
     border: 1px solid #ccc;
     border-radius: 5px;
-    width: 200px;
+    width: 20%;
 }
 /* Estilos para los contenedores de lugares */
 .lugar {
-    display: none;
+    display: block;
     background-color: #f9f9f9;
     border: 1px solid #ddd;
     border-radius: 5px;

@@ -67,14 +67,13 @@
          <h1>Directorio de Lugares Turisticos</h1>
       </div>
 
-      <!-- termina la sección de directorio -->
       <div class="filter">
-         <input type="text" id="search" placeholder="Buscar lugar...">
+         <input type="text" id="busqueda" placeholder="Buscar lugar...">
          <select class="categoria-select" onchange="filtrarLugares(this.value)">>
                 <option value="Todos">Todos</option>
                 <option value="Cines">Cines</option>
                 <option value="Hoteles">Hoteles</option>
-                <option value="Parques">Parques y Playas</option>
+                <option value="Parques">Parques</option>
                 <option value="Plazas">Plazas</option>
                 <option value="Restaurantes">Restaurantes</option>
                 <option value="Mercados">Super Mercados</option>
@@ -82,7 +81,8 @@
             </select>
       </div>
 
-      <!-- inicio sobre la sección de lugares  -->      
+      <!-- inicio sobre la sección de lugares  --> 
+      <!-- parques  -->     
       <main>
         <div class="lugar" data-categoria="Parques">
             <img src="images/parque1.png" alt="parque1">
@@ -91,33 +91,219 @@
                donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque2">
+            <h2>Parque Teniente Guerrero</h2>
+            <p>Un parque histórico con áreas verdes, esculturas y fuentes, ideal para dar un paseo relajante y disfrutar del ambiente tranquilo en el corazón de la ciudad.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque3">
+            <h2>Parque de la Amistad</h2>
+            <p>Este parque representa la amistad entre México y Japón, con jardines japoneses, esculturas y espacios para relajarse y disfrutar del entorno.</p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque4">
+            <h2>Parque Nacional Constitución de 1857</h2>
+            <p>Este parque nacional ofrece una variedad de senderos que serpentean a través de bosques de pinos y áreas escénicas. 
+               El sendero más popular es el que conduce al Pico El Águila, ofreciendo vistas panorámicas impresionantes. </p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque5">
+            <h2>Parque Teresita Paramo</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque6">
+            <h2>Parque Buena Vista</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque7">
+            <h2>Parque el Valle</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque8">
+            <h2>Parque de las Americas</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque9">
+            <h2>Parque de la Espiritualidad</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Parques">
+            <img src="images/parque1.png" alt="parque10">
+            <h2>Mundo Divertido</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+      <!-- parques  -->  
+      
+      <!-- cines  -->
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine1">
+            <h2>Cinemex Mundo Divertido</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine2">
+            <h2>Cinemex Peninsula</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine3">
+            <h2>Cinemex Pavilion</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine4">
+            <h2>Cinemex Macroplaza</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine5">
+            <h2>Cinemex Loma Bonita</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine6">
+            <h2>Cinemex Plaza Alameda</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine7">
+            <h2>Cinepolis Plaza Rio</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine8">
+            <h2>Cinemex Plaza Minarete</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine9">
+            <h2>Cinemex Pacifico</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Cines">
+            <img src="images/parque1.png" alt="cine10">
+            <h2>Cinepolis Plaza Monarca</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+      <!-- cines  -->
+
+      <!-- hoteles  -->
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel1">
+            <h2>Hotel Extended Suites Tijuana Macroplaza</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel2">
+            <h2>Hotel Jardin</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel3">
+            <h2>Hotel Astor</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel4">
+            <h2>Baja Inn La Mesa</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel5">
+            <h2>City Express Junior by Marriott Tijuana Otay</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel6">
+            <h2>Sleep Inn Tijuana</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel7">
+            <h2>Gamma Tijuana</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel8">
+            <h2>One Tijuana Otay</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel9">
+            <h2>City Express</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+        <div class="lugar" data-categoria="Hoteles">
+            <img src="images/parque1.png" alt="hotel10">
+            <h2>Hotel Frontiere</h2>
+            <p></p>
+            <a href="book.php" class="btn">Mas detalles</a>
+        </div>
+      <!-- hoteles  -->
+
+      <!-- plazas  -->
+
+      <!-- plazas  -->
+        <div class="lugar" data-categoria="Cines">
             <img src="images/trompo1.png" alt="trompo1">
             <h2>El Trompo</h2>
             <p>Comprueba que aprender puede ser divertido en este complejo para toda la familia con cientos de juegos que 
                muestran el impacto de la ciencia y la tecnología modernas.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Cines">
             <img src="images/cecut1.png" alt="cecut1">
             <h2>Cecut</h2>
             <p>Lleva a tu familia a descubrir el rico pasado de las Californias y a visitar exposiciones de arte, 
                jardines botánicos y un cine IMAX con forma de cúpula.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Cines">
             <img src="images/plazario.jpg" alt="plaza rio">
             <h2>Plaza Rio Tijuana</h2>
             <p>Este centro comercial tiene tiendas como Sephora, Apple Store, Starbucks y un cine enorme.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Parques">
             <img src="images/avrevolucion.jpg" alt="avrevolucion">
             <h2>Avenida Revolución</h2>
             <p>Es un edificio muy bonito e histórico!!! antiguamente era un centro deportivo de Pelota vasca (Jai alai). </p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Parques">
             <img src="images/mullme.jpg" alt="mullme">
             <h2>Mullme</h2>
             <p>En el Museo de la Lucha Libre Mexicana se exhibe una gran colección privada de objetos relacionados al mundo de la Lucha Libre, 
@@ -125,19 +311,19 @@
                luchadores de plástico en diferentes poses y tamaños, los diferentes tipos de revistas especializadas al deporte del pancracio, y más.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Parques">
             <img src="images/mercado.jpg" alt="mercado">
             <h2>Mercado El Popo</h2>
             <p>Hay esponjas naturales, prensas de tortilla de madera, piedras para moler molcajete, piedra pómez y mucho más.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Parques">
             <img src="images/catedral.jpg" alt="catedral">
             <h2>Catedral de Nuestra Señora de Guadalupe</h2>
             <p>Esta es una iglesia católica clásica en el medio de Tijuana que atiende las necesidades de los habitantes locales.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Parques">
             <img src="images/estadio.jpg" alt="estadio">
             <h2>Estadio Caliente</h2>
             <p>Dicen que la afición a un equipo lo es todo, y los Xolos tienen eso, una afición que muere por ellos no importa que ganen o pierdan.
@@ -145,7 +331,7 @@
                las cervezas y prepara tu carne, eso si, no olvides invitar a un monton de amigos. El estacionamiento es una fiesta por si misma.</p>
             <a href="book.php" class="btn">Mas detalles</a>
         </div>
-        <div class="card">
+        <div class="lugar" data-categoria="Parques">
             <img src="images/casino.jpg" alt="casino">
             <h2>Casino Caliente</h2>
             <p>Un casino de una franquicia muy publicitada que al encontrarse en la Avenida Revolución es una opción para divertirse .
@@ -209,6 +395,6 @@
       <!-- enlace de archivo js personalizado  -->
       <script src="js/script.js"></script>
       <script src="js/filtrar.js"></script>
-
+      <script src="js/busqueda.js"></script>
    </body>
 </html>
