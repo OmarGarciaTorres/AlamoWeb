@@ -89,7 +89,7 @@
             <h2>Parque Morelos</h2>
             <p>Dedica una tarde para descubrir los aspectos más característicos de este enorme parque, 
                donde encontrarás desde espectáculos de marionetas y un zoológico hasta embarcaciones y una alberca.</p>
-            <a href="book.php" class="btn">Mas detalles</a>
+            <a href="/submodules/directory/parque1.php" class="btn">Mas detalles</a>
         </div>
         <div class="lugar" data-categoria="Parques">
             <img src="images/directory/parque2.png" alt="parque2">
