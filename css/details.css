@@ -140,6 +140,12 @@ section{
     background: var(--light-bg);
     /*max-width: 2000px;*/
 }
+.home .image{
+    flex:1 1 41rem;
+}
+.home .image img{
+    width: 100%;
+}
 
 
 /* Estilos para el carrusel de imágenes */
@@ -182,6 +188,7 @@ section{
     flex: 1;
     padding: 50px;
     background: var(--light-bg);
+    
 }
 
 h3 {
