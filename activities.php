@@ -50,7 +50,7 @@
             <img src="images/alamomenu.png" alt="AlamoMenu">
             <div class="menu-content">
                   <a href="home.php" class="menu-item">Inicio</a>
-                  <a href="places.php" class="menu-item">Directorio</a>
+                  <a href="directory.php" class="menu-item">Directorio</a>
                   <a href="activities.php" class="menu-item">Actividades</a>
                   <a href="blog.php" class="menu-item">Blog de Viajes</a>
             </div>
@@ -62,112 +62,160 @@
       <!-- termina la sección del encabezado -->
 
       <div class="heading" style="background:url(images/header-bg-2.png) no-repeat">
-         <h1>paquetes</h1>
+         <h1>Actividades</h1>
       </div>
 
       <!-- comienza la sección de paquetes  -->
 
       <section class="packages">
 
-         <h1 class="heading-title">mejores destinos</h1>
+         <h1 class="heading-title">las mejores actividades para hacer</h1>
 
          <div class="box-container">
 
          <div class="box">
                <div class="image">
-                  <img src="images/img-1.jpg" alt="">
+                  <img src="images/image8.png" alt="">
                </div>
                <div class="content">
-                  <h3>Restaurantes</h3>
-                  <p>Descubre las mejores gastronomias en tijuana!</p>
-                  <a href="restaurants.php" class="btn">ver mas</a>
+                  <h3>Escalada en el Cerro Colorado</h3>
+                  <p>Ven y desafía tus habilidades escalando las rocas</p>
+                  <a href="" class="btn">ver mas</a>
                </div>
             </div>
 
             <div class="box">
                <div class="image">
-                  <img src="images/img-10.jpg" alt="">
+               <img src="images/image9.png" alt="">
                </div>
                <div class="content">
-                  <h3>Hoteles</h3>
-                  <p>Descubre los hoteles mas cercanos y reserva ahora!</p>
-                  <a href="hotels.php" class="btn">ver mas</a>
+                  <h3>Campamento en la Sierra de Juárez</h3>
+                  <p>Disfruta de la naturaleza y acampa bajo las estrellas</p>
+                  <a href="" class="btn">ver mas</a>
                </div>
             </div>
             
             <div class="box">
                <div class="image">
-                  <img src="images/img-3.jpg" alt="">
+                  <img src="images/img-1.jpg" alt="">
                </div>
                <div class="content">
-                  <h3>Playas</h3>
-                  <p>Conoce las playas y sus locales increibles!</p>
-                  <a href="beachs.php" class="btn">ver mas</a>
+                  <h3>Tour gastronómico por la ciudad</h3>
+                  <p> Embárcate en un recorrido culinario por Tijuana</p>
+                  <a href="" class="btn">ver mas</a>
                </div>
             </div>
 
             <div class="box">
                <div class="image">
-                  <img src="images/img-2.jpg" alt="">
+               <img src="images/image10.png" alt="">
                </div>
                <div class="content">
-                  <h3>Entretenimiento</h3>
-                  <p>Descubre lugares a los que puedes visitar y divertirte!</p>
-                  <a href="places.php" class="btn">ver mas</a>
+                  <h3>Visita al Parque Morelos</h3>
+                  <p>Diviértete en este parque urbano!</p>
+                  <a href="" class="btn">ver mas</a>
                </div>
             </div>
 
             <div class="box">
                <div class="image">
-                  <img src="images/img-13.jpg" alt="">
+               <img src="images/image11.png" alt="">
                </div>
                <div class="content">
-                  <h3>Museos</h3>
-                  <p>Conoce sobre la cultura y arte de la ciudad y adentrate al museo!</p>
-                  <a href="museums.php" class="btn">ver mas</a>
+                  <h3>Recorrido por la Zona Centro</h3>
+                  <p>Sumérgete en la historia y la cultura de Tijuana!</p>
+                  <a href="" class="btn">ver mas</a>
+               </div>
+            </div>
+
+           
+
+            <div class="box">
+               <div class="image">
+               <img src="images/image12.png" alt="">
+               </div>
+               <div class="content">
+                  <h3>Surf en Playas de Tijuana</h3>
+                  <p>Si te apasiona el surf, visita las Playas de Tijuana .</p>
+                  <a target="_blank" href="" class="btn">ir</a>
                </div>
             </div>
 
             <div class="box">
                <div class="image">
-                  <img src="images/img-14.jpg" alt="">
+               <img src="images/image13.png" alt="">
                </div>
                <div class="content">
-                  <h3>Transporte publico</h3>
-                  <p>Conoce las estaciones que hay y donde puedes tomar tu transporte hacia tu destino.</p>
-                  <a target="_blank" href="https://maps.app.goo.gl/YdJdXAkZK6ZY3Lir8" class="btn">ir</a>
-               </div>
-            </div>
-
-            <div class="box">
-               <div class="image">
-                  <img src="images/img-15.jpg" alt="">
-               </div>
-               <div class="content">
-                  <h3>Farmacias</h3>
-                  <p>Descubre la farmacia mas cercana a tu ubicación.</p>
-                  <a target="_blank" href="https://maps.app.goo.gl/CMCXK5m8n8ceowc49" class="btn">ir</a>
-               </div>
-            </div>
-
-            <div class="box">
-               <div class="image">
-                  <img src="images/img-16.jpg" alt="">
-               </div>
-               <div class="content">
-                  <h3>Cajeros automaticos</h3>
-                  <p>¿Necesitas dinero y no sabes donde hay un cajero cerca? dale click aqui y descubre los cajeros mas cercanos a tu ubicación.</p>
-                  <a target="_blank" href="https://maps.app.goo.gl/amCe9XtCSPv6CHLX8" class="btn">ir</a>
+                  <h3>Tour por la frontera con San Diego</h3>
+                  <p>Aprovecha la ubicación fronteriza de Tijuana.</p>
+                  <a target="_blank" href="" class="btn">ir</a>
                </div>
             </div>
 
          </div>
 
-         <div class="load-more"><span class="btn">ver mas paquetes</span></div>
+         <div class="load-more"><span class="btn">ver mas actividades</span></div>
 
       </section>
 
       <!-- termina la sección de paquetes  -->
+            <!-- empieza la reseña de usuarios  -->
+
+            <section class="reviews">
+
+<h1 class="heading-title"> Proximos eventos </h1>
+
+<div class="swiper reviews-slider">
+
+   <div class="swiper-wrapper">
+
+      <div class="swiper-slide slide">
+      <h3>Tijuana Innovadora</h3>
+         <p> Tijuana Innovadora es un encuentro que reúne a líderes, emprendedores, artistas y visionarios para explorar ideas innovadoras que impulsen el desarrollo económico, social y cultural de la región.</p>
+         
+         <span>Tienes que ir!</span>
+        
+      </div>
+
+      <div class="swiper-slide slide">
+      <h3>Torneo Internacional de Surf en Playas de Tijuana</h3>
+         <p>Del 8 al 10 de agosto, se realizará el Torneo Internacional de Surf en Playas de Tijuana, donde surfistas de todo el mundo competirán en diferentes categorías. El evento promete emocionantes competencias y actividades para espectadores.</p>
+         
+         <span>Tienes que verlo!</span>
+        
+      </div>
+
+      <div class="swiper-slide slide">
+      <h3>Concierto de Café Tacvba en el Estadio Caliente</h3>
+         <p>Lo mejor de lo mejor!</p>
+         
+         <span>Los boletos se acaban!</span>
+         
+      </div>
+
+      <div class="swiper-slide slide">
+      <h3>Exposiciones en el Centro Cultural Tijuana (CECUT)</h3>
+         <p>El CECUT es un centro cultural que alberga exposiciones de arte, conciertos, obras de teatro, conferencias y eventos especiales durante todo el año.</p>
+         
+         <span>CECUT</span>
+        
+      </div>
+
+      <div class="swiper-slide slide">
+      <h3>Festival Internacional de Cine de Tijuana (FIC Tijuana)</h3>
+         <p> Este festival de cine ofrece proyecciones de películas nacionales e internacionales, así como mesas redondas, talleres y eventos especiales relacionados con la industria cinematográfica.</p>
+         
+         <span>El cine es lo mejor!</span>
+        
+      </div>
+
+   </div>
+
+</div>
+
+</section>
+
+<!-- termina la reseña de usuarios -->
 
       <!-- comienza la sección de pie de página  -->
 

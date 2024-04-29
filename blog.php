@@ -33,6 +33,8 @@
          <meta name="msapplication-TileColor" content="#ffffff">
          <meta name="msapplication-TileImage" content="images/ms-icon-144x144.png">
          <meta name="theme-color" content="#ffffff">
+         
+
    </head>
    <body>
       
@@ -50,7 +52,7 @@
             <img src="images/alamomenu.png" alt="AlamoMenu">
             <div class="menu-content">
                   <a href="home.php" class="menu-item">Inicio</a>
-                  <a href="places.php" class="menu-item">Directorio</a>
+                  <a href="directory.php" class="menu-item">Directorio</a>
                   <a href="activities.php" class="menu-item">Actividades</a>
                   <a href="blog.php" class="menu-item">Blog de Viajes</a>
             </div>
@@ -62,136 +64,129 @@
       <!-- termina la sección del encabezado -->
 
       <div class="heading" style="background:url(images/header-bg-1.png) no-repeat">
-         <h1>acerca de</h1>
+         <h1>Blog de Viajes</h1>
       </div>
 
-      <!-- empieza la seccion de about  -->
+      <!-- empieza la seccion de about 1  -->
 
       <section class="about">
 
          <div class="image">
-            <img src="images/about-img.jpg" alt="">
+            <img src="images/image1.png" alt="">
          </div>
 
          <div class="content">
-            <h3>¿por que elegir tijuana?</h3>
-            <p>Tijuana es una ciudad mexicana localizada en el estado de Baja California, siendo la cabecera del municipio homónimo. Es la 2.ª ciudad más poblada de México al contar con un total de 1 810 645 habitantes en el año 2020,9​ siendo también la 6.ª zona metropolitana más poblada del país que conforma, junto con los municipios de Playas de Rosarito y Tecate, la zona metropolitana fronteriza más grande de México, con una población de 2 157 853 habitantes. El municipio de Tijuana es según el INEGI, el más poblado del país.10​Además de ser una de las ciudades con mejor temperatura en todo el mundo, teniendo de temperaturas de 9º a 26 °C.</p>
+            <h3>Esto es lo mejor!</h3>
+            <p>Descubrir los encantos de Tijuana nunca fue tan fácil. Gracias a esta página web dedicada a los lugares turísticos de la ciudad, ahora podemos acceder rápidamente a una amplia gama de información actualizada. Desde atracciones icónicas hasta gemas ocultas, todo está al alcance de nuestros dedos las 24 horas del día. Además, esta herramienta nos permite personalizar nuestra experiencia de viaje según nuestros intereses y preferencias, garantizando que cada momento sea único y memorable.</p>
 
-            <div class="icons-container">
-               <div class="icons">
-                  <i class="fas fa-map"></i>
-                  <span>mejores destinos</span>
-               </div>
-               <div class="icons">
-                  <i class="fas fa-hand-holding-usd"></i>
-                  <span>precios confortables</span>
-               </div>
-               <div class="icons">
-                  <i class="fas fa-headset"></i>
-                  <span>24/7 guia de servicio</span>
-               </div>
-            </div>
+            <div class="date">
+        <p>Fecha: 26 de abril de 2024</p>
+    </div>
          </div>
 
       </section>
 
-      <!-- termina la seccion de about -->
+     
+<section class="about">
 
-      <!-- empieza la reseña de usuarios  -->
+<div class="content">
+   <h3>Cuidado con el clima</h3>
+   <p>Los próximos días en Tijuana se vislumbran con un mal clima en el horizonte. Los meteorólogos advierten que una serie de sistemas climáticos convergentes traerán consigo fuertes lluvias y vientos intensos a la región. Se espera que las nubes grises dominen el cielo mientras la lluvia cae persistente, inundando calles y desafiando a los transeúntes con charcos esquivos. Además, el viento soplará con fuerza, sacudiendo árboles y carteles publicitarios mientras deja una sensación de frescura inusual en el aire. Los residentes y visitantes de Tijuana están siendo exhortados a prepararse adecuadamente y tomar precauciones adicionales ante este inminente clima adverso. ¡Es hora de sacar los paraguas y abrigarse bien!</p>
+   <div class="date">
+        <p>Fecha: 26 de abril de 2024</p>
+    </div>
+   </div>
 
-      <section class="reviews">
+<div class="image">
+<img src="images/image2.png" alt="">
+</div>
 
-         <h1 class="heading-title"> Comentarios y calificaciones </h1>
+</section>
+<section class="about">
 
-         <div class="swiper reviews-slider">
+         <div class="image">
+         <img src="images/image3.png" alt="">
+         </div>
 
-            <div class="swiper-wrapper">
-
-               <div class="swiper-slide slide">
-                  <div class="stars">
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                  </div>
-                  <p>Acabo de regresar y ya quiero volver, es de las mejores cosas que me han pasado en la vida visitar tijuana 10/10</p>
-                  <h3>Juan pedro</h3>
-                  <span>Reservador</span>
-                  <img src="images/pic-1.png" alt="">
-               </div>
-
-               <div class="swiper-slide slide">
-                  <div class="stars">
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                  </div>
-                  <p>Viajar a tijuana fue una de las mejores experiencias porque pude dar clases!</p>
-                  <h3>Elena</h3>
-                  <span>profesora</span>
-                  <img src="images/pic-2.png" alt="">
-               </div>
-
-               <div class="swiper-slide slide">
-                  <div class="stars">
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                  </div>
-                  <p>Lo mejor de lo mejor!</p>
-                  <h3>omar garcia</h3>
-                  <span>reservador</span>
-                  <img src="images/pic-3.png" alt="">
-               </div>
-
-               <div class="swiper-slide slide">
-                  <div class="stars">
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                  </div>
-                  <p>me hubira gustado ir a tecate</p>
-                  <h3>arely torres</h3>
-                  <span>reservador</span>
-                  <img src="images/pic-1.png" alt="">
-               </div>
-
-               <div class="swiper-slide slide">
-                  <div class="stars">
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                  </div>
-                  <p>cuando bajaran los costos?</p>
-                  <h3>mitre</h3>
-                  <span>reservador</span>
-                  <img src="images/pic-5.png" alt="">
-               </div>
-
-               <div class="swiper-slide slide">
-                  <div class="stars">
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                     <i class="fas fa-star"></i>
-                  </div>
-                  <p>esta bien pero no volveria a ir</p>
-                  <h3>kui</h3>
-                  <span>reservador</span>
-                  <img src="images/pic-6.png" alt="">
-               </div>
-
-            </div>
-
+         <div class="content">
+            <h3>Consejos para la playa</h3>
+            <p>Antes de sumergirse en las olas y disfrutar del sol radiante en la playa, es esencial tomar algunas precauciones para protegerse del intenso calor y los rayos UV. En primer lugar, no olvides aplicar generosamente protector solar de amplio espectro con un SPF de al menos 30, especialmente en áreas expuestas como la cara, los brazos y la espalda. Reaplica el protector solar cada dos horas, especialmente después de nadar o sudar. Además, opta por sombrillas o gorras de ala ancha para proteger tu piel del sol directo y busca la sombra durante las horas pico de radiación solar, generalmente entre las 10 a.m. y las 4 p.m. No te olvides de hidratarte constantemente bebiendo agua y evitando el exceso de alcohol y cafeína, que pueden deshidratarte. Finalmente, asegúrate de llevar contigo una bolsa de playa con elementos esenciales como toallas, gafas de sol, una botella de agua reutilizable, aperitivos saludables y, por supuesto, ¡mucha actitud positiva para disfrutar al máximo de tu día en la playa!</p>
+            <div class="date">
+        <p>Fecha: 26 de abril de 2024</p>
+    </div>
+           
          </div>
 
       </section>
+      <section class="about">
 
-      <!-- termina la reseña de usuarios -->
+<div class="content">
+   <h3>Los Sabores de Tijuana: Explorando la Escena Gastronómica Local</h3>
+   <p>Descubre los secretos culinarios que Tijuana tiene para ofrecer. Desde los tacos de pescado fresco hasta la deliciosa birria, la ciudad es un paraíso para los amantes de la comida. No te pierdas la oportunidad de probar las innovadoras fusiones de la cocina Baja Med, que combinan ingredientes locales con técnicas culinarias internacionales. Además, no olvides explorar los vibrantes mercados y puestos callejeros donde puedes deleitarte con auténticos antojitos mexicanos. ¡Prepárate para un festín de sabores en Tijuana!</p>
+   <div class="date">
+        <p>Fecha: 26 de abril de 2024</p>
+    </div>
+   </div>
+
+<div class="image">
+<img src="images/image4.png" alt="">
+</div>
+
+</section>
+<section class="about">
+
+         <div class="image">
+         <img src="images/image5.png" alt="">
+         </div>
+
+         <div class="content">
+            <h3>Explorando su Escena Cultural Vibrante</h3>
+            <p>Sumérgete en el rico mundo del arte y la cultura en Tijuana. Desde galerías de arte contemporáneo hasta coloridos murales callejeros, la ciudad ofrece una experiencia cultural única. No te pierdas la oportunidad de visitar el Centro Cultural Tijuana (CECUT) con su icónico domo IMAX y su impresionante colección de arte. Además, explora el dinámico distrito cultural de Zona Río, donde encontrarás teatros, museos y espacios de exhibición. ¡Descubre el alma creativa de Tijuana en cada rincón!</p>
+            <div class="date">
+        <p>Fecha: 26 de abril de 2024</p>
+    </div>
+           
+         </div>
+
+      </section>
+      <section class="about">
+
+<div class="content">
+   <h3>Descubriendo los Tesoros Naturales de Tijuana</h3>
+   <p>Embárcate en una emocionante aventura al aire libre en Tijuana. Desde majestuosas montañas hasta impresionantes playas, la ciudad ofrece una variedad de actividades para los amantes de la naturaleza. Explora el Parque Nacional Constitución de 1857, donde encontrarás senderos para caminatas, cascadas y espectaculares vistas panorámicas. Además, no te pierdas la oportunidad de practicar surf en las playas de Rosarito o hacer una excursión de observación de ballenas en el océano Pacífico. ¡Descubre la belleza natural de Tijuana y sumérgete en la aventura!</p>
+   <div class="date">
+        <p>Fecha: 26 de abril de 2024</p>
+    </div>
+</div>
+
+
+<div class="image">
+<img src="images/image6.png" alt="">
+</div>
+
+</section>
+<section class="about">
+
+         <div class="image">
+         <img src="images/image7.png" alt="">
+         </div>
+
+         <div class="content">
+            <h3>Centros Comerciales y Distritos de Tijuana</h3>
+            <p>Sumérgete en la emoción de las compras y el entretenimiento en Tijuana. Visita los modernos centros comerciales como Plaza Río y Macroplaza, donde encontrarás una amplia variedad de tiendas, restaurantes y opciones de entretenimiento para toda la familia. Además, explora el colorido distrito de moda en la Zona Centro, donde encontrarás boutiques únicas y mercados callejeros llenos de artesanías locales. No te pierdas la oportunidad de disfrutar de la vibrante vida nocturna de la ciudad, con una amplia selección de bares, clubes y eventos culturales. ¡Prepárate para una experiencia de compras y entretenimiento inolvidable en Tijuana!</p>
+
+            <div class="date">
+        <p>Fecha: 26 de abril de 2024</p>
+    </div>
+         </div>
+
+      </section>
+         
+
+<!-- Termina la sección de about -->
+
+
+    
 
       <!-- empieza el pie de pagina  -->
 
