@@ -209,7 +209,7 @@ section{
 .services .box-container .box{
     padding:3rem 2rem;
     text-align: center;
-    background: rgb(43, 106, 201);
+    background: lightgrey;
     cursor: pointer;
 }
 .services .box-container .box:hover{
