@@ -52,7 +52,7 @@ if(isset($_POST['send'])){
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
       <!-- enlace de archivo css personalizado  -->
-      <link rel="stylesheet" href="css/style.css">
+      <link rel="stylesheet" href="/css/style.css">
 
       <!-- visualizar favicon para la pagina web desde distintos dispositivos -->
       <link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">

@@ -31,7 +31,7 @@ if(isset($_POST['send'])){
    $insert_book = $conn->prepare("INSERT INTO `book_form`(id, name, email, phone, address, location, guests, arrivals, leaving) VALUES(?,?,?,?,?,?,?,?,?)");
    $insert_book->execute([$id, $name, $email, $phone, $address, $location, $guests, $arrivals, $leaving]);
 
-   $success_msg[] = 'Datos Registrados, en un momento seras contactado!'; 
+   $success_msg[] = 'Datos Registrados, en un momento seras redireccionado!'; 
 
 }
 
@@ -79,72 +79,74 @@ if(isset($_POST['send'])){
 
       <section class="header">
 
-         <a href="home.php" class="logo">Tijuana, B.C.</a>
+         <!-- Enlace con la imagen PNG como logo -->
+         <a href="home.php" class="logo">
+            <!-- Imagen PNG -->
+            <img src="images/alamoicon.png" alt="AlamoIcon">
+         </a>
 
-            <nav class="navbar">
-               <a href="home.php">Inicio</a>
-               <a href="package.php">Paquetes</a>
-               <a href="book.php">Reserva</a>
-               <a href="about.php">Acerca de</a>
-            </nav>
-
-            <div id="menu-btn" class="fas fa-bars"></div>
+         <div class="menu">
+            <img src="images/alamomenu.png" alt="AlamoMenu">
+            <div class="menu-content">
+                  <a href="home.php" class="menu-item">Inicio</a>
+                  <a href="directory.php" class="menu-item">Directorio</a>
+                  <a href="activities.php" class="menu-item">Actividades</a>
+                  <a href="blog.php" class="menu-item">Blog de Viajes</a>
+            </div>
+         </div>
+         <div id="menu-btn" class="fas fa-bars"></div>
 
       </section>
 
       <!-- termina la sección del encabezado -->
 
       <div class="heading" style="background:url(images/header-bg-3.png) no-repeat">
-         <h1>reserva ahora</h1>
+         <h1>Recomendaciones</h1>
       </div>
 
       <!-- comienza la sección de reserva  -->
 
       <section class="booking">
 
-         <h1 class="heading-title">No te quedes sin un lugar!</h1>
+         <h1 class="heading-title">Datos Personales</h1>
 
          <form action="" method="post" class="book-form">
-
+            
             <div class="flex">
+                <!-- datos personales -->
                <div class="inputBox">
-                  <span>nombre :</span>
+                  <span>Nombre :</span>
                   <input type="text" placeholder="ingresa tu nombre" maxlength="30" name="name">
                </div>
                <div class="inputBox">
-                  <span>email :</span>
-                  <input type="email" maxlength="50" placeholder="ingresa tu email" name="email">
+                  <span>Edad :</span>
+                  <input type="number" min="1" max="99" maxlength="2" placeholder="ingresa tu edad" name="years">
                </div>
                <div class="inputBox">
-                  <span>telefono :</span>
-                  <input type="tel" maxlength="12" placeholder="ingresa tu numero" name="phone">
+                  <span>Genero :</span>
+                  <input type="text" placeholder="como te identificas" maxlength="20" name="gender">
                </div>
-               <div class="inputBox">
-                  <span>direccion :</span>
-                  <input type="text" maxlength="50" placeholder="ingresa tu direccion" name="address">
-               </div>
-               <div class="inputBox">
-                  <span>A donde vas :</span>
-                  <input type="text" placeholder="dime a donde iras" name="location" maxlength="50">
-               </div>
-               <div class="inputBox">
-                  <span>cuantas personas :</span>
-                  <input type="number" min="1" max="99" maxlength="2" placeholder="ingresa cantidad de personas" name="guests">
-               </div>
-               <div class="inputBox">
-                  <span>llegada :</span>
-                  <input type="date" name="arrivals">
-               </div>
-               <div class="inputBox">
-                  <span>regreso :</span>
-                  <input type="date" name="leaving">
-               </div>
+                
+                <!-- intereses y preferencias -->
+                <div class="question">
+                    <label for="interests">¿Qué tipo de actividades prefieres durante tus viajes? (Selecciona todas las que apliquen) :</label><br>
+                    <input type="checkbox" id="monuments" name="interests[]" value="beach">
+                    <label for="monuments">Visitar monumentos históricos</label><br>
+                    <input type="checkbox" id="gastronomy" name="interests[]" value="culture">
+                    <label for="gastronomy">Disfrutar de la gastronomía local</label><br>
+                    <input type="checkbox" id="sports" name="interests[]" value="food">
+                    <label for="sports">Practicar deportes acuáticos</label><br>
+                    <input type="checkbox" id="nature" name="interests[]" value="beach">
+                    <label for="nature">Explorar la naturaleza y hacer senderismo</label><br>
+                    <input type="checkbox" id="culture" name="interests[]" value="culture">
+                    <label for="culture">Asistir a eventos culturales y festivales</label><br>
+                    <input type="checkbox" id="markets" name="interests[]" value="food">
+                    <label for="markets">Realizar compras y recorrer mercados locales</label><br>
+                </div>
             </div>
-
             <input type="submit" value="enviar" class="btn" name="send">
 
          </form>
-
       </section>
 
       <!-- termina la sección de reserva  -->
@@ -157,39 +159,41 @@ if(isset($_POST['send'])){
 
             <div class="box">
                <h3>Enlaces</h3>
-               <a href="home.php"> <i class="fas fa-angle-right"></i> inicio</a>
-               <a href="about.php"> <i class="fas fa-angle-right"></i> Acerca De </a>
-               <a href="package.php"> <i class="fas fa-angle-right"></i> Paquetes </a>
-               <a href="book.php"> <i class="fas fa-angle-right"></i> Reserva</a>
+               <a href="home.php"> <i class="fas fa-angle-right"></i> Inicio</a>
+               <a href="directory.php"> <i class="fas fa-angle-right"></i> Directorio </a>
+               <a href="activities.php"> <i class="fas fa-angle-right"></i> Actividades </a>
+               <a href="blog.php"> <i class="fas fa-angle-right"></i> Blog de Viajes</a>
             </div>
 
             <div class="box">
                <h3>Sobre Nosotros</h3>
-               <a href="#"> <i class="fas fa-angle-right"></i> preguntas</a>
-               <a href="#"> <i class="fas fa-angle-right"></i> acerca de</a>
-               <a href="#"> <i class="fas fa-angle-right"></i> politica de privacidad</a>
-               <a href="#"> <i class="fas fa-angle-right"></i> terminos de uso</a>
+               <!--<a href="#"> <i class="fas fa-angle-right"></i> Preguntas</a>
+               <a href="#"> <i class="fas fa-angle-right"></i> Acerca de</a-->
+               <a href="#"> <i class="fas fa-angle-right"></i> Politica de privacidad</a>
+               <a href="#"> <i class="fas fa-angle-right"></i> Terminos de uso</a>
             </div>
 
             <div class="box">
-               <h3>contact info</h3>
-               <a href="#"> <i class="fas fa-phone"></i> 6642149981 </a>
-               <a href="#"> <i class="fas fa-phone"></i> 6648738493 </a>
+               <h3>Contactos</h3>
+               <a href="#"> <i class="fas fa-phone"></i> +52 (664) 214 99 81 </a>
+               <a href="#"> <i class="fas fa-phone"></i> +52 (664) 873 84 93 </a>
                <a href="#"> <i class="fas fa-envelope"></i> omar.garcia201@tectijuana.edu.mx </a>
+               <a href="#"> <i class="fas fa-envelope"></i> jesus.saguilan201@tectijuana.edu.mx </a>
+               <a href="#"> <i class="fas fa-envelope"></i> maria.ramos201@tectijuana.edu.mx </a>
                <a href="#"> <i class="fas fa-map"></i> Tijuana, Baja californa, Mexico</a>
             </div>
 
             <div class="box">
-               <h3>follow us</h3>
-               <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-               <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-               <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-               <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+               <h3>Redes Sociales</h3>
+               <a href="#"> <i class="fab fa-facebook-f"></i> Facebook </a>
+               <a href="#"> <i class="fab fa-twitter"></i> Twitter </a>
+               <a href="#"> <i class="fab fa-instagram"></i> Instagram </a>
+               <a href="#"> <i class="fab fa-linkedin"></i> Linkedin </a>
             </div>
 
          </div>
 
-         <div class="credit"> creado por <span>Private Studio</span> | ¡Todos los derechos reservados! </div>
+         <div class="credit"> Creado por <span>Private Studio</span> | ¡Todos los derechos reservados! </div>
 
       </section>
 
