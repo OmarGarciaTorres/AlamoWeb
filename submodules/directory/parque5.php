@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>Parque Teresita Paramo | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,12 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>Parque Teresita Paramo</h3>
+            <p>El Parque Teresita Paramo te ofrece un refugio de paz y belleza natural en medio de la bulliciosa ciudad. Con su accesibilidad excepcional, este parque es perfecto para aquellos que buscan un lugar tranquilo para relajarse y disfrutar de la naturaleza.
+
+Aquí, puedes participar en una variedad de actividades al aire libre, como caminatas por senderos arbolados, picnics junto al lago y observación de aves en su hábitat natural. Además, el parque cuenta con servicios como áreas de descanso, merenderos y servicios de alquiler de equipos para actividades recreativas.
+
+Con su atmósfera serena y sus vistas pintorescas, el Parque Teresita Paramo es el destino ideal para escapar del ajetreo y el bullicio de la vida cotidiana y reconectar con la naturaleza. ¡Ven y sumérgete en la tranquilidad de este oasis verde!</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -98,15 +102,15 @@
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
             <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            • Estacionamiento accesible para personas en silla de ruedas</p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>• Caminatas por senderos <br> 
+            • Picnics</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Áreas de descanso <br> • Merenderos <br> • Servicios de alquiler de equipos. <br>
+            • Mesas de pícnic <br> • Sanitario público</p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Área de juegos <br> • Ideal para ir con niños</p>
          </div>
       </section>
  
@@ -117,7 +121,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/LApk2UG565B8NKUo6" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">

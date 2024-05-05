@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>Cinemex Plaza Alameda | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,8 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>Cinemex Plaza Alameda</h3>
+            <p> Ubicado en el corazón de la ciudad, Cinemex Plaza Alameda es un lugar popular para disfrutar de las últimas películas en pantalla grande. Con su amplia selección de proyecciones y servicios premium, este cine se esfuerza por brindar una experiencia inolvidable a todos sus visitantes. Desde asientos cómodos hasta opciones gastronómicas, Cinemex Plaza Alameda tiene todo lo necesario para una salida al cine perfecta.</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -98,15 +98,16 @@
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
             <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            • Estacionamiento accesible para personas en silla de ruedas</p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>• Eventos Especiales <br> 
+            •  Proyecciones en 3D</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Espacios reservados  <br> • Eventos especiales. <br>
+            • Espacio VIP </p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Área de juegos <br> • Es recomendable para cumpleaños infantiles <br>
+            • Ideal para ir con niños <br> • Rutas de senderismo adecuadas para niños</p>
          </div>
       </section>
  
@@ -117,7 +118,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/Wh9J3cXKcKbRmd8T8" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">

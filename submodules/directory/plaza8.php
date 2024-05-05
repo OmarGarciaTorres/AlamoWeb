@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>Plaza Monarca | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,8 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>Plaza Monarca</h3>
+            <p>Plaza Monarca es un destino de compras y entretenimiento que ofrece una experiencia moderna y vibrante para los residentes y visitantes de Tijuana. Aquí, los visitantes pueden encontrar una variedad de tiendas para ir de compras, desde moda hasta tecnología y artículos para el hogar. La plaza también cuenta con una selección de restaurantes y cafeterías para disfrutar de una comida o una bebida. Además, ofrece una gama de servicios, como bancos, farmacias y salones de belleza.</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -97,16 +97,16 @@
             <img src="/images/star1.webp" alt="Star">
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
-            <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            <p>• Espacios amplios y accesibles para todos los visitantes. <br> 
+            • Estacionamiento accesible para personas en silla de ruedas</p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>• Compras <br> 
+            • Restaurantes</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Estacionamiento <br> • Seguridad <br> • Servicios bancarios y de salud.</p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Área de juegos infantiles  <br> • Actividades familiares. <br>
+            • Ideal para ir con niños <br> • Organización de eventos promocionales y ferias comerciales.</p>
          </div>
       </section>
  
@@ -117,7 +117,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/zsH84rQavK3n5pZq5" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">

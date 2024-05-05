@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>Parque de las Americas | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,12 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>Parque de las Americas</h3>
+            <p>El Parque de las Américas te invita a explorar la rica historia y la vibrante cultura de la región en un entorno hermoso y acogedor. Con su accesibilidad excepcional, este parque es perfecto para visitantes de todas las edades y habilidades, asegurando que todos puedan disfrutar de sus numerosas atracciones y actividades.
+
+Dentro del parque, encontrarás una amplia variedad de experiencias para disfrutar, desde exhibiciones culturales y eventos artísticos hasta áreas de juego para niños y paseos escénicos. Además, el parque ofrece una gama completa de servicios, incluyendo áreas de descanso, restaurantes y tiendas de recuerdos.
+
+Con su atmósfera festiva y sus numerosas actividades, el Parque de las Américas es el destino perfecto para sumergirse en la cultura y la diversión con amigos y familiares. ¡Ven y descubre la magia de este destino único!</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -98,15 +102,14 @@
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
             <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            • Diseñado para visitantes de todas las edades y sus mascotas.</p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>• Exhibiciones culturales <br> 
+            • Ciclismo</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Cancha de básquetbol<br> • Toboganes <br> • Mesas de pícnic <br> • Sanitario público <br> • Columpios</p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Área de juegos <br>  • Ideal para ir con niños</p>
          </div>
       </section>
  
@@ -117,7 +120,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/dBXqRhzpPenE1BvD9" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">

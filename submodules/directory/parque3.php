@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Morelos | Alamo Web</title>
+      <title>Parque de la Amistad | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -13,7 +13,8 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
       <!-- enlace de archivo css personalizado  -->
-      <link rel="stylesheet" href="/css/details.css">
+      <link rel="stylesheet" href="\css\details.css">
+     
 
       <!-- visualizar favicon para la pagina web desde distintos dispositivos -->
       <link rel="apple-touch-icon" sizes="57x57" href="/images/apple-icon-57x57.png">
@@ -68,56 +69,55 @@
 
       <h1 class="heading-title"> Información </h1>
 
-      <section class="container">
-
-         <div class="image2">
-            <img src="/images/about-img.jpg" alt="">
-         </div>
-
-         <div class="content">
-            <h3>Parque Morelos</h3>
-            <p>El Parque Morelos es un lugar multifuncional ubicado en Tijuana, Baja California. Se encuentra al este de la ciudad y ofrece varias actividades y 
-                atracciones para disfrutar. El parque cuenta con un zoológico pequeño, un tren que da un pequeño recorrido, un lago artificial y una zona de juegos. 
-                También hay un jardín botánico y se puede encontrar comida y bicicletas para alquilar. Según los usuarios, el parque es un lugar agradable para relajarse y 
-                estar en contacto con la naturaleza. Sin embargo, también se han mencionado problemas con la calidad de las instalaciones y los animales del zoológico. 
-                En general, el parque tiene una calificación de 4.0 sobre 5.0 con 33 reseñas en Tripadvisor. En resumen, el Parque Morelos es un lugar interesante para visitar 
-                en Tijuana, pero es importante tener en cuenta las críticas y reseñas de otros usuarios antes de planificar una visita.</p>
-            <!--<a href="about.php" class="btn">Leer más</a>-->
-            <a href="about.php" class="btn">Comentarios</a>
-            <a href="https://maps.app.goo.gl/CjQajpbQaG6z5TEu7" class="btn">Ubicación</a>
-         </div>
-      </section>
-
-      <h1 class="heading-title"> <br>Actividades </h1>
-
       <section class="home">
 
-        <div class="image">
-            <img src="/images/about-img.jpg" alt="">
+         <div class="swiper home-slider">
+
+            <div class="swiper-wrapper">
+
+               <div class="swiper-slide slide" style="background:url(/images/home-slide-1.jpg) no-repeat"></div>
+               <div class="swiper-slide slide" style="background:url(/images/home-slide-2.jpg) no-repeat"></div>
+               <div class="swiper-slide slide" style="background:url(/images/home-slide-3.jpg) no-repeat"></div>
+            
+            </div>
+
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+            
          </div>
 
          <div class="content">
-            <h3>Valoración</h3>
+            <h3>Parque de la Amistad</h3>
+            <p>El Parque de la Amistad es un espacio verde en Tijuana que ofrece áreas recreativas y deportivas para la comunidad. Cuenta con canchas deportivas, áreas de juegos para niños, y senderos para caminar o correr. Es un lugar popular para actividades al aire libre y eventos comunitarios.</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
+            <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
             <img src="/images/star2.webp" alt="Star">
             <img src="/images/star2.webp" alt="Star">
             <img src="/images/star1.webp" alt="Star">
             <img src="/images/star1.webp" alt="Star">
-            <h3>Accesibilidad</h3>
+            <h3><br>Accesibilidad</h3>
             <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Estacionamiento accesible para personas en silla de ruedas</p>
+            • Rampas y caminos accesibles.</p>
             <h3>Actividades</h3>
-            <p>• Senderismo <br> 
-            • Ciclismo</p>
+            <p>• Deportes <br> 
+            • Areas de juegos.</p>
             <h3>Servicios</h3>
-            <p>• Área para patinetas <br> • Parrilla para barbacoa <br> • Toboganes <br>
-            • Mesas de pícnic <br> • Sanitario público <br> • Columpios</p>
+            <p>• Áreas de pícnic <br>• Mesas de pícnic <br> • Sanitario público</p>
             <h3>Niños</h3>
             <p>• Área de juegos <br> • Es recomendable para cumpleaños infantiles <br>
-            • Ideal para ir con niños <br> • Rutas de senderismo adecuadas para niños</p>
+            • Ideal para ir con niños </p>
          </div>
       </section>
+ 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      
+      <a href="about.php" class="btn">Comentarios</a>
+      <a href="https://maps.app.goo.gl/7phVyAMdLjRL4Mg57" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">
