@@ -53,6 +53,8 @@
                   <a href="directory.php" class="menu-item">Directorio</a>
                   <a href="activities.php" class="menu-item">Actividades</a>
                   <a href="blog.php" class="menu-item">Blog de Viajes</a>
+                  <a href="descuentos.php" class="menu-item">Ofertas y Descuentos</a>
+                  <a href="quests.php" class="menu-item">Recomendaciones</a>
             </div>
          </div>
          <div id="menu-btn" class="fas fa-bars"></div>
@@ -133,6 +135,16 @@
             <div class="box">
                <a href="blog.php"><img src="images/blog-img.png" alt=""></a>
                <h3>Blog</h3>
+            </div>
+
+            <div class="box">
+               <a href="descuentos.php"><img src="images/descuento-img.png" alt=""></a>
+               <h3>Ofertas y Descuentos</h3>
+            </div>
+
+            <div class="box">
+               <a href="quests.php"><img src="images/recomendacion-img.png" alt=""></a>
+               <h3>Recomendaciones</h3>
             </div>
 
             <!-- <div class="box">

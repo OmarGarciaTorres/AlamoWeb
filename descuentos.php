@@ -53,6 +53,8 @@
                   <a href="directory.php" class="menu-item">Directorio</a>
                   <a href="activities.php" class="menu-item">Actividades</a>
                   <a href="blog.php" class="menu-item">Blog de Viajes</a>
+                  <a href="descuentos.php" class="menu-item">Ofertas y Descuentos</a>
+                  <a href="quests.php" class="menu-item">Recomendaciones</a>
             </div>
          </div>
          <div id="menu-btn" class="fas fa-bars"></div>

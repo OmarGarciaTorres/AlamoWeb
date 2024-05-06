@@ -55,6 +55,8 @@
                   <a href="directory.php" class="menu-item">Directorio</a>
                   <a href="activities.php" class="menu-item">Actividades</a>
                   <a href="blog.php" class="menu-item">Blog de Viajes</a>
+                  <a href="descuentos.php" class="menu-item">Ofertas y Descuentos</a>
+                  <a href="quests.php" class="menu-item">Recomendaciones</a>
             </div>
          </div>
          <div id="menu-btn" class="fas fa-bars"></div>
@@ -73,37 +75,88 @@
                <!-- Encuesta -->
                <form id="recommendationForm" action="quests-form.php" method="POST" class="book-form">
                   <div class="flex">
-                  <!-- datos personales -->
-                  <div class="inputBox">
-                     <span>Nombre :</span>
-                     <input type="text" placeholder="ingresa tu nombre" maxlength="30" name="name">
+                     <!-- datos personales -->
+                     <div class="inputBox">
+                        <span>Nombre :</span>
+                        <input type="text" placeholder="ingresa tu nombre" maxlength="30" name="name">
+                     </div>
+                     <div class="inputBox">
+                        <span>Edad :</span>
+                        <input type="number" min="1" max="99" maxlength="2" placeholder="ingresa tu edad" name="years">
+                     </div>
+                     <div class="inputBox">
+                        <span>Genero :</span>
+                        <select id="genero" name="genero" required>
+                           <option value="masculino">Masculino</option>
+                           <option value="femenino">Femenino</option>
+                           <option value="otro">Otro</option>
+                        </select>
+                     </div>
+                     <div class="inputBox">
+                        <span>Correo Electronico :</span>
+                        <input type="email" placeholder="ingresa tu correo" name="email">
+                     </div>
+                     <div class="inputBox">
+                        <span>Numero de Telefono :</span>
+                        <input type="tel" placeholder="ingresa tu numero de telefono" pattern="[0-9]{10}" name="phone">
+                     </div>
+                     <div class="inputBox">
+                        <span>¿Eres de méxico o vienes fuera del país? :</span>
+                        <select id="from" name="from" required>
+                           <option value="mx">Soy de México</option>
+                           <option value="other">Vengo de otro país</option>
+                           <option value="nocontest">Prefiero no contestar</option>
+                        </select>
+                     </div>
+                     <div class="inputBox">
+                        <span>¿Cuál es tu principal motivo para visitar Tijuana? :</span>
+                        <select id="visittj" name="visittj" required>
+                           <option value="turism">Turismo</option>
+                           <option value="busines">Negocios</option>
+                           <option value="events">Eventos especiales</option>
+                           <option value="other">Otros</option>
+                        </select>
+                     </div>
+                     <div class="inputBox">
+                        <span>¿Has visitado Tijuana anteriormente? :</span>
+                        <select id="visit" name="visit" required>
+                           <option value="si">Si</option>
+                           <option value="no">No</option>
+                           <option value="no me acuerdo">No me acuerdo</option>
+                        </select>
+                     </div>
+                     <div class="inputBox">
+                        <span>¿Cuáles son tus pasatiempos? :</span>
+                        <select id="activities" name="activities" required>
+                           <option value="deporte">Practicar deporte</option>
+                           <option value="paseo">Ir de paseo</option>
+                           <option value="excursion">Ir de excursiones</option>
+                           <option value="leer">Leer</option>
+                           <option value="amigos">Salir con amigos</option>
+                           <option value="tv">Ver la TV</option>
+                           <option value="others">Otros</option>
+                        </select>
+                     </div>
+                     <div class="interests-container">
+                        <label for="interests">Selecciona tus intereses:</label>
+                        <input type="checkbox" id="beach" name="interests[]" value="cines">
+                        <label for="cines">Cines</label>
+                        <input type="checkbox" id="museum" name="interests[]" value="hoteles">
+                        <label for="hoteles">Hoteles</label>
+                        <input type="checkbox" id="park" name="interests[]" value="parques">
+                        <label for="parques">Parques</label>
+                        <input type="checkbox" id="park" name="interests[]" value="plazas">
+                        <label for="plazas">Plazas</label>
+                        <input type="checkbox" id="park" name="interests[]" value="restaurantes">
+                        <label for="restaurantes">Restaurantes</label>
+                        <input type="checkbox" id="park" name="interests[]" value="super">
+                        <label for="super">Super Mercados</label>
+                        <input type="checkbox" id="park" name="interests[]" value="otros">
+                        <label for="otros">Otros</label>
+                     </div>
                   </div>
-                  <div class="inputBox">
-                     <span>Edad :</span>
-                     <input type="number" min="1" max="99" maxlength="2" placeholder="ingresa tu edad" name="years">
-                  </div>
-                  <div class="inputBox">
-                     <span>Genero :</span>
-                     <input type="text" placeholder="como te identificas" maxlength="20" name="gender">
-                  </div>
-                  <div class="inputBox">
-                     <span>Correo Electronico :</span>
-                     <input type="email" placeholder="ingresa tu correo" name="email">
-                  </div>
-                  <div class="inputBox">
-                     <span>Numero de Telefono :</span>
-                     <input type="tel" placeholder="ingresa tu numero de telefono" name="phone">
-                  </div>
-                  <label for="interests">Selecciona tus intereses:</label><br>
-                  <input type="checkbox" id="beach" name="interests[]" value="playas">
-                  <label for="beach">Playas</label><br>
-                  <input type="checkbox" id="museum" name="interests[]" value="museos">
-                  <label for="museum">Museos</label><br>
-                  <input type="checkbox" id="park" name="interests[]" value="parques">
-                  <label for="park">Parques</label><br>
                   <input type="submit" value="Obtener Recomendaciones" class="btn" name="send">
                </form>
-            </div>
       </section>
       <!-- termina la sección de encuesta  -->
 
