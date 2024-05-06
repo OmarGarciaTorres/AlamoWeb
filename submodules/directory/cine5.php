@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>Cinemex Loma Bonita | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,13 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>Cinemex Loma Bonita</h3>
+            <p>Cinemex Loma Bonita es uno de los destinos preferidos para 
+               los amantes del cine en Tijuana. Con sus cómodas instalaciones 
+               y tecnología de vanguardia, este cine ofrece una experiencia única para
+                disfrutar de las últimas películas en pantalla grande. 
+                Además de proyecciones regulares, Cinemex Loma Bonita también 
+                organiza eventos especiales y funciones en 3D para satisfacer las preferencias de todos los cinéfilos.</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -98,15 +103,14 @@
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
             <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            • Sanitarios accesibles para personas en silla de ruedas</p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>• Proyecciones en 3D <br> 
+            • Eventos especiales.</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Restaurante <br> • Dulceria <br> • Boletos en línea.</p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Ideal para ir con niños <br> • Películas infantiles.</p>
          </div>
       </section>
  
@@ -117,7 +121,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/54U3wV33XfNVT1r97" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">

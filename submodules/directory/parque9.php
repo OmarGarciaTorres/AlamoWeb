@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>Parque de la Espiritualidad | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,12 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>Parque de la Espiritualidad</h3>
+            <p>El Parque de la Espiritualidad te invita a desconectar del ajetreo de la vida cotidiana y conectar con tu ser interior en un entorno sereno y hermoso. Con su accesibilidad excepcional, este parque es perfecto para aquellos que buscan un lugar tranquilo para reflexionar y meditar.
+
+Aquí, puedes explorar senderos tranquilos, disfrutar de jardines exuberantes y participar en prácticas espirituales como yoga y meditación. Además, el parque ofrece una variedad de servicios, incluyendo áreas de descanso, espacios para eventos y actividades grupales, y guías expertos disponibles para brindarte orientación y apoyo.
+
+Con su atmósfera pacífica y su conexión con la naturaleza, el Parque de la Espiritualidad es el lugar perfecto para encontrar calma y renovar tu espíritu. ¡Ven y sumérgete en la serenidad de este oasis espiritual!</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -98,15 +102,15 @@
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
             <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            • Diseñado para la tranquilidad y la reflexión. </p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>• Senderos tranquilos <br> 
+            • Prácticas espirituales como yoga y meditación.</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Áreas de descanso <br> • Espacios para eventos y actividades grupales <br> • Guías expertos.<br>
+            • Mesas de pícnic <br> • Sanitario público</p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Área de juegos <br> • Ideal para ir con niños <br> • Rutas de senderismo adecuadas para niños</p>
          </div>
       </section>
  
@@ -117,7 +121,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/bdZ6Eu87avx393qq8" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">

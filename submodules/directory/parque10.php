@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>Mundo Divertido | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,12 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>Mundo Divertido</h3>
+            <p>Bienvenido a Mundo Divertido, el destino definitivo para la diversión y el entretenimiento en familia. Con su accesibilidad excepcional, este parque temático es perfecto para visitantes de todas las edades y habilidades, garantizando que todos puedan disfrutar de sus numerosas atracciones y actividades.
+
+Dentro de Mundo Divertido, encontrarás una amplia gama de emocionantes atracciones, desde montañas rusas y juegos mecánicos hasta espectáculos en vivo y áreas de juego interactivas. Además, el parque ofrece una variedad de servicios, incluyendo restaurantes, áreas de descanso y personal amable y atento para garantizar una experiencia cómoda y placentera para todos los visitantes.
+
+Con su ambiente vibrante y lleno de energía, Mundo Divertido es el lugar perfecto para pasar un día inolvidable con tus seres queridos. ¡Ven y únete a la diversión en el parque temático más emocionante de la ciudad!</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -98,15 +102,15 @@
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
             <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            • Sanitarios accesibles para personas en silla de ruedas</p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>• Montañas rusas <br> 
+            • Juegos mecánicos</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Restaurante <br> • Espectáculos en vivo  <br>• Mesas de pícnic <br> • Sanitario público</p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Área de juegos <br> • Es recomendable para cumpleaños infantiles <br>
+            • Ideal para ir con niños <br> • Areas de juego interactivas.</p>
          </div>
       </section>
  
@@ -117,7 +121,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/nBMR1werriQsry4m8" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">

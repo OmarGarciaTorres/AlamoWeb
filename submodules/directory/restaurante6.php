@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>La Querencia | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,8 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>La Querencia</h3>
+            <p>La Querencia es un tesoro culinario en Tijuana, conocido por su enfoque innovador de la cocina mexicana. Ubicado en una casa restaurada, el restaurante ofrece un ambiente íntimo y acogedor que invita a los comensales a relajarse y disfrutar de una comida memorable. El menú de La Querencia presenta platos mexicanos clásicos reinterpretados con un toque creativo, utilizando ingredientes frescos y de temporada para realzar los sabores tradicionales. Además de su excelente comida, el restaurante cuenta con una extensa carta de vinos y cócteles artesanales, perfectos para acompañar la experiencia gastronómica.</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -97,16 +97,15 @@
             <img src="/images/star1.webp" alt="Star">
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
-            <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            <p>• La casa restaurada tiene algunas limitaciones de accesibilidad, pero el personal está dispuesto a ayudar a los clientes según sea necesario. <br> 
+            • Estacionamiento accesible para personas en silla de ruedas</p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>•  La principal actividad aquí es disfrutar de una comida tranquila y conversar con amigos o familiares.</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Asientos al aire libre <br> • Entrega a domicilio <br> • Para llevar <br>
+            • Platos vegetarianos <br> • Bocadillos <br> • Servicio de catering </p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Ideal para ir con niños </p>
          </div>
       </section>
  
@@ -117,7 +116,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/G7mDqB6uEtv3ofmH9" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">

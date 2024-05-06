@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Parque Teniente Guerrero | Alamo Web</title>
+      <title>Tacos El Franc| Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -87,8 +87,8 @@
          </div>
 
          <div class="content">
-            <h3>Parque Teniente Guerrero</h3>
-            <p> El Parque Teniente Guerrero es un espacio público en Tijuana que combina áreas verdes con espacios para actividades recreativas y eventos culturales. Ofrece zonas de juegos, áreas para pícnic, y escenarios para presentaciones artísticas. Es un lugar frecuentado por familias y grupos para pasar un día al aire libre.</p>
+            <h3>Tacos El Franc</h3>
+            <p>Tacos El Franc es un lugar imprescindible para los amantes de los tacos en Tijuana. Este puesto callejero, ubicado en una esquina concurrida, atrae a multitudes con el aroma tentador de su carne asada y adobada a la parrilla. Los clientes pueden disfrutar de una variedad de opciones de tacos, desde los clásicos de carne asada hasta opciones más exóticas como lengua y tripa. Además de la comida, parte de la experiencia en Tacos El Franc es la atmósfera animada y el ambiente auténtico de la calle, donde los clientes se mezclan con lugareños y turistas por igual.</p>
             <!--<a href="about.php" class="btn">Leer más</a>-->
             <p><b>&nbsp;&nbsp;Valoración</b></p>
             <img src="/images/star2.webp" alt="Star">
@@ -97,16 +97,15 @@
             <img src="/images/star1.webp" alt="Star">
             <img src="/images/star1.webp" alt="Star">
             <h3><br>Accesibilidad</h3>
-            <p>• Entrada accesible para personas en silla de ruedas <br> 
-            • Senderos pavimentados.</p>
+            <p>• Entrada accesible para personas en silla de ruedas </p>
             <h3>Actividades</h3>
-            <p>• Música en vivo. <br> 
-            • Eventos culturales</p>
+            <p>• Disfrutar de la comida callejera <br> 
+            • Atmósfera animada</p>
             <h3>Servicios</h3>
-            <p>• Áreas de pícnic<br> • Baños <br> • Estacionamiento.</p>
+            <p>• Asientos al aire libre <br> • Pedidos desde el automóvil <br> • Consumo en el lugar <br>
+            • Para llevar <br> • Comidas durante la madrugada <br> • Aperitivos</p>
             <h3>Niños</h3>
-            <p>• Área de juegos <br> • Espectáculos infantiles. <br>
-            • Ideal para ir con niños</p>
+            <p>• Sillas altas <br>• Ideal para ir con niños </p>
          </div>
       </section>
  
@@ -117,7 +116,7 @@
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       
       <a href="about.php" class="btn">Comentarios</a>
-      <a href="https://maps.app.goo.gl/dqP5xMidHXbzCqTy9" class="btn">Ubicación</a>
+      <a href="https://maps.app.goo.gl/EizC86enksnD9KVp7" class="btn">Ubicación</a>
       
       <!--<h1 class="heading-title"> <br><br>Acerca del Parque Morelos </h1>
       <section class="home3">
