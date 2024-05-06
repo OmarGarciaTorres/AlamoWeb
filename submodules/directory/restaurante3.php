@@ -75,9 +75,8 @@
 
             <div class="swiper-wrapper">
 
-               <div class="swiper-slide slide" style="background:url(/images/home-slide-1.jpg) no-repeat"></div>
-               <div class="swiper-slide slide" style="background:url(/images/home-slide-2.jpg) no-repeat"></div>
-               <div class="swiper-slide slide" style="background:url(/images/home-slide-3.jpg) no-repeat"></div>
+               <div class="swiper-slide slide" style="background:url(/images/restamision191.png) no-repeat"></div>
+               <div class="swiper-slide slide" style="background:url(/images/restamision192.png) no-repeat"></div>
             
             </div>
 
