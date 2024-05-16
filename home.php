@@ -230,6 +230,35 @@
 
       </section>
 
+      <!--Bot-->
+      <div class="chat-popup" id="chatPopup">
+        <div class="chat-header">
+            <div class="header-content">
+                <img src="/images/favicon-32x32.png" alt="Company Logo" class="logo">
+                <h2>Bot Alamo Web</h2>
+                <span class="close" onclick="closeChat()">&#x2212;</span>
+            </div>
+            <p>Espero que encuentres la respuesta a tus dudas.</p>
+        </div>
+        <div class="chat-body" id="chatBody">
+            <div class="message bot-message">¡Hola! 👋 Si necesitas ayuda, siempre estamos aquí.</div>
+            <div class="frequent-questions">
+                <p>Preguntas Frecuentes:</p>
+                <button onclick="askQuestion('What is your return policy?')">What is your return policy?</button>
+                <button onclick="askQuestion('How do I track my order?')">How do I track my order?</button>
+                <button onclick="askQuestion('Can I purchase items online?')">Can I purchase items online?</button>
+                <button onclick="askQuestion('Do you offer customer support?')">Do you offer customer support?</button><br>
+            </div>
+         </div>
+        <div class="chat-footer">
+            <input type="text" id="userInput" placeholder="Escribe tu mensaje..." onkeypress="return checkEnter(event)">
+            <button onclick="sendMessage()">&#9658;</button>
+        </div>
+      </div>
+      <div class="chat-bubble" onclick="openChat()">
+         <img src="/images/chat.png" alt="Chat Icon">
+      </div>
+
       <!-- comienza la sección de pie de página  -->
 
       <section class="footer">
@@ -283,6 +312,9 @@
 
       <!-- enlace de archivo js personalizado  -->
       <script src="js/script.js"></script>
+
+      <!--Script de bot-->
+      <script src="js/bot.js"></script>
 
    </body>
 </html>
