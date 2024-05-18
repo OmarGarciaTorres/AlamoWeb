@@ -235,7 +235,7 @@
         <div class="chat-header">
             <div class="header-content">
                 <img src="/images/favicon-32x32.png" alt="Company Logo" class="logo">
-                <h2>Bot Alamo Web</h2>
+                <h2>Asistente Alamo Web</h2>
                 <span class="close" onclick="closeChat()">&#x2212;</span>
             </div>
             <p>Espero que encuentres la respuesta a tus dudas.</p>
