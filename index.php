@@ -251,7 +251,7 @@
                 <button onclick="askQuestion('¿Cuál es la mejor época del año para visitar Tijuana en términos de clima y eventos?')">¿Cuál es la mejor época del año para visitar Tijuana en términos de clima y eventos?</button>
                 <button onclick="askQuestion('¿Cuáles son las opciones de transporte público disponibles en Tijuana?')">¿Cuáles son las opciones de transporte público disponibles en Tijuana?</button>
                 <button onclick="askQuestion('¿Dónde puedo obtener información sobre la historia y cultura de Tijuana?')">¿Dónde puedo obtener información sobre la historia y cultura de Tijuana?</button>
-                <button onclick="askQuestion('¿Qué medidas de seguridad debo tomar al visitar Tijuana como turista?')">¿Qué medidas de seguridad debo tomar al visitar Tijuana como turista?</button>
+                <button onclick="askQuestion('¿Qué medidas de seguridad debo tomar al visitar Tijuana como turista?')">¿Qué medidas de seguridad debo tomar al visitar Tijuana como turista?</button><br>
             </div>
          </div>
         <div class="chat-footer">
