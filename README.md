@@ -2,7 +2,7 @@
 <p align="center"><img src="images/home-slide-4.jpg" width="1920px" height="360px" alt="title"></p>
 
 # Information 📄
-## Descripción del proyecto
+## Descripción del proyecto ✏
 Este sitio web proporcionará a los clientes de Alamo información
 detallada sobre los mejores lugares turísticos de la ciudad,
 actividades para hacer, restaurantes recomendados y eventos
@@ -11,7 +11,7 @@ encontrar recomendaciones personalizadas según sus intereses y
 preferencias. Además, podrán dejar reseñas y calificaciones, lo
 que ayudará a otros viajeros a tomar decisiones informadas.
 
-## Justificación
+## Justificación 💡
 La creación de una plataforma que brinde
 información turística detallada y personalizada
 permitirá a Alamo diferenciarse en un mercado
@@ -23,7 +23,7 @@ necesidades y expectativas de los viajeros,
 aumentando así su ventaja competitiva y generando
 potencialmente ingresos adicionales.
 
-## Problematica
+## Problematica 📍
 Alamo enfrenta el desafío de diferenciarse en un
 mercado altamente competitivo y estar constantemente
 mejorando la experiencia del cliente más allá del simple
@@ -31,7 +31,7 @@ alquiler de vehículos. Aunque la empresa ya ofrece un
 servicio eficiente de alquiler de automóviles, carece de
 una plataforma integral que brinde información turística
 detallada y personalizada a sus clientes, lo que limita su
-capacidad para satisfacer completamente las necesidades y expectativas de los viajeros
+capacidad para satisfacer completamente las necesidades y expectativas de los viajeros.
 
 # Languages 💻
   • PHP<br>
