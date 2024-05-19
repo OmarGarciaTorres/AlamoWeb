@@ -4,7 +4,7 @@
       <meta charset="UTF-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Recomendaciones</title>
+      <title>Recomendaciones | Alamo Web</title>
 
       <!-- enlace css deslizador  -->
       <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -41,7 +41,7 @@
       <section class="header">
 
          <!-- Enlace con la imagen PNG como logo -->
-         <a href="home.php" class="logo">
+         <a href="index.php" class="logo">
             <!-- Imagen PNG -->
             <img src="images/alamoicon.png" alt="AlamoIcon">
          </a>
@@ -49,7 +49,7 @@
          <div class="menu">
             <img src="images/alamomenu.png" alt="AlamoMenu">
             <div class="menu-content">
-                  <a href="home.php" class="menu-item">Inicio</a>
+                  <a href="index.php" class="menu-item">Inicio</a>
                   <a href="directory.php" class="menu-item">Directorio</a>
                   <a href="activities.php" class="menu-item">Actividades</a>
                   <a href="blog.php" class="menu-item">Blog de Viajes</a>
@@ -190,39 +190,41 @@
 
          <div class="box-container">
 
-            <div class="box">
-               <h3>Enlaces</h3>
-               <a href="home.php"> <i class="fas fa-angle-right"></i> Inicio</a>
-               <a href="directory.php"> <i class="fas fa-angle-right"></i> Directorio </a>
-               <a href="activities.php"> <i class="fas fa-angle-right"></i> Actividades </a>
-               <a href="blog.php"> <i class="fas fa-angle-right"></i> Blog de Viajes</a>
-            </div>
+               <div class="box">
+                  <h3>Enlaces</h3>
+                  <a href="index.php"> <i class="fas fa-angle-right"></i> Inicio</a>
+                  <a href="directory.php"> <i class="fas fa-angle-right"></i> Directorio </a>
+                  <a href="activities.php"> <i class="fas fa-angle-right"></i> Actividades </a>
+                  <a href="blog.php"> <i class="fas fa-angle-right"></i> Blog de Viajes</a>
+                  <a href="descuentos.php"> <i class="fas fa-angle-right"></i> Ofertas y Descuentos</a>
+                  <a href="quests.php"> <i class="fas fa-angle-right"></i> Recomendaciones</a>
+               </div>
 
-            <div class="box">
-               <h3>Sobre Nosotros</h3>
-               <!--<a href="#"> <i class="fas fa-angle-right"></i> Preguntas</a>
-               <a href="#"> <i class="fas fa-angle-right"></i> Acerca de</a-->
-               <a href="#"> <i class="fas fa-angle-right"></i> Politica de privacidad</a>
-               <a href="#"> <i class="fas fa-angle-right"></i> Terminos de uso</a>
-            </div>
+               <div class="box">
+                  <h3>Sobre Nosotros</h3>
+                  <!--<a href="#"> <i class="fas fa-angle-right"></i> Preguntas</a>
+                  <a href="#"> <i class="fas fa-angle-right"></i> Acerca de</a-->
+                  <a href="#"> <i class="fas fa-angle-right"></i> Politica de privacidad</a>
+                  <a href="#"> <i class="fas fa-angle-right"></i> Terminos de uso</a>
+               </div>
 
-            <div class="box">
-               <h3>Contactos</h3>
-               <a href="#"> <i class="fas fa-phone"></i> +52 (664) 214 99 81 </a>
-               <a href="#"> <i class="fas fa-phone"></i> +52 (664) 873 84 93 </a>
-               <a href="#"> <i class="fas fa-envelope"></i> omar.garcia201@tectijuana.edu.mx </a>
-               <a href="#"> <i class="fas fa-envelope"></i> jesus.saguilan201@tectijuana.edu.mx </a>
-               <a href="#"> <i class="fas fa-envelope"></i> maria.ramos201@tectijuana.edu.mx </a>
-               <a href="#"> <i class="fas fa-map"></i> Tijuana, Baja californa, Mexico</a>
-            </div>
+               <div class="box">
+                  <h3>Contactos</h3>
+                  <a href="#"> <i class="fas fa-phone"></i> +52 (664) 214 99 81 </a>
+                  <a href="#"> <i class="fas fa-phone"></i> +52 (664) 873 84 93 </a>
+                  <a href="#"> <i class="fas fa-envelope"></i> omar.garcia201@tectijuana.edu.mx </a>
+                  <a href="#"> <i class="fas fa-envelope"></i> jesus.saguilan201@tectijuana.edu.mx </a>
+                  <a href="#"> <i class="fas fa-envelope"></i> maria.ramos201@tectijuana.edu.mx </a>
+                  <a href="#"> <i class="fas fa-map"></i> Tijuana, Baja californa, Mexico</a>
+               </div>
 
-            <div class="box">
-               <h3>Redes Sociales</h3>
-               <a href="#"> <i class="fab fa-facebook-f"></i> Facebook </a>
-               <a href="#"> <i class="fab fa-twitter"></i> Twitter </a>
-               <a href="#"> <i class="fab fa-instagram"></i> Instagram </a>
-               <a href="#"> <i class="fab fa-linkedin"></i> Linkedin </a>
-            </div>
+               <div class="box">
+                  <h3>Redes Sociales</h3>
+                  <a href="#"> <i class="fab fa-facebook-f"></i> Facebook </a>
+                  <a href="#"> <i class="fab fa-twitter"></i> Twitter </a>
+                  <a href="#"> <i class="fab fa-instagram"></i> Instagram </a>
+                  <a href="#"> <i class="fab fa-linkedin"></i> Linkedin </a>
+               </div>
 
          </div>
 

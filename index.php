@@ -13,7 +13,7 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
       <!-- enlace de archivo css personalizado  -->
-      <link rel="stylesheet" href="css/home.css">
+      <link rel="stylesheet" href="css/index.css">
 
       <!-- visualizar favicon para la pagina web desde distintos dispositivos -->
       <link rel="apple-touch-icon" sizes="57x57" href="images/apple-icon-57x57.png">
@@ -41,7 +41,7 @@
       <section class="header">
 
          <!-- Enlace con la imagen PNG como logo -->
-         <a href="home.php" class="logo">
+         <a href="index.php" class="logo">
             <!-- Imagen PNG -->
             <img src="images/alamoicon.png" alt="AlamoIcon">
          </a>
@@ -244,10 +244,14 @@
             <div class="message bot-message">¡Hola! 👋 Si necesitas ayuda, siempre estamos aquí.</div>
             <div class="frequent-questions">
                 <p>Preguntas Frecuentes:</p>
-                <button onclick="askQuestion('What is your return policy?')">What is your return policy?</button>
-                <button onclick="askQuestion('How do I track my order?')">How do I track my order?</button>
-                <button onclick="askQuestion('Can I purchase items online?')">Can I purchase items online?</button>
-                <button onclick="askQuestion('Do you offer customer support?')">Do you offer customer support?</button><br>
+                <button onclick="askQuestion('¿Cuáles son los principales lugares turísticos para visitar en Tijuana?')">¿Cuáles son los principales lugares turísticos para visitar en Tijuana?</button>
+                <button onclick="askQuestion('¿Qué actividades recreativas puedo hacer en Tijuana durante el fin de semana?')">¿Qué actividades recreativas puedo hacer en Tijuana durante el fin de semana?</button>
+                <button onclick="askQuestion('¿Cuál es la mejor manera de llegar a la frontera entre Tijuana y San Diego?')">¿Cuál es la mejor manera de llegar a la frontera entre Tijuana y San Diego?</button>
+                <button onclick="askQuestion('¿Cuáles son los restaurantes más populares de Tijuana y qué tipo de comida ofrecen?')">¿Cuáles son los restaurantes más populares de Tijuana y qué tipo de comida ofrecen?</button>
+                <button onclick="askQuestion('¿Cuál es la mejor época del año para visitar Tijuana en términos de clima y eventos?')">¿Cuál es la mejor época del año para visitar Tijuana en términos de clima y eventos?</button>
+                <button onclick="askQuestion('¿Cuáles son las opciones de transporte público disponibles en Tijuana?')">¿Cuáles son las opciones de transporte público disponibles en Tijuana?</button>
+                <button onclick="askQuestion('¿Dónde puedo obtener información sobre la historia y cultura de Tijuana?')">¿Dónde puedo obtener información sobre la historia y cultura de Tijuana?</button>
+                <button onclick="askQuestion('¿Qué medidas de seguridad debo tomar al visitar Tijuana como turista?')">¿Qué medidas de seguridad debo tomar al visitar Tijuana como turista?</button>
             </div>
          </div>
         <div class="chat-footer">
@@ -267,10 +271,12 @@
 
             <div class="box">
                <h3>Enlaces</h3>
-               <a href="home.php"> <i class="fas fa-angle-right"></i> Inicio</a>
+               <a href="index.php"> <i class="fas fa-angle-right"></i> Inicio</a>
                <a href="directory.php"> <i class="fas fa-angle-right"></i> Directorio </a>
                <a href="activities.php"> <i class="fas fa-angle-right"></i> Actividades </a>
                <a href="blog.php"> <i class="fas fa-angle-right"></i> Blog de Viajes</a>
+               <a href="descuentos.php"> <i class="fas fa-angle-right"></i> Ofertas y Descuentos</a>
+               <a href="quests.php"> <i class="fas fa-angle-right"></i> Recomendaciones</a>
             </div>
 
             <div class="box">

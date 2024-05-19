@@ -2,15 +2,36 @@
 <p align="center"><img src="images/home-slide-4.jpg" width="1920px" height="360px" alt="title"></p>
 
 # Information 📄
-  • 🔍 El proyecto que se propone es el desarrollo de un sitio web dedicado a la reserva de guías turísticas en la ciudad de Tijuana, B.C. El objetivo principal del sitio es proporcionar a los visitantes una plataforma fácil y conveniente para buscar y reservar guías turísticos profesionales que los acompañen durante su estancia en Tijuana.
+## Descripción del proyecto
+Este sitio web proporcionará a los clientes de Alamo información
+detallada sobre los mejores lugares turísticos de la ciudad,
+actividades para hacer, restaurantes recomendados y eventos
+locales. Los usuarios podrán navegar fácilmente por el sitio para
+encontrar recomendaciones personalizadas según sus intereses y
+preferencias. Además, podrán dejar reseñas y calificaciones, lo
+que ayudará a otros viajeros a tomar decisiones informadas.
 
-  • 💻 El sitio web se desarrollará utilizando un conjunto de tecnologías y herramientas clave. PHP será el lenguaje de programación principal para el desarrollo del backend del sitio. Se utilizarán bases de datos MySQL y el administrador PhpMyAdmin para gestionar la información relacionada con los guías turísticos, los usuarios y las reservas.
+## Justificación
+La creación de una plataforma que brinde
+información turística detallada y personalizada
+permitirá a Alamo diferenciarse en un mercado
+competitivo, mejorar la experiencia del cliente y
+fomentar la fidelidad hacia la marca. Al ofrecer un
+valor agregado significativo más allá del alquiler de
+vehículos, la empresa puede satisfacer mejor las
+necesidades y expectativas de los viajeros,
+aumentando así su ventaja competitiva y generando
+potencialmente ingresos adicionales.
 
-  • 🧍 El diseño y la apariencia del sitio web serán implementados utilizando CSS para crear una interfaz atractiva y amigable para el usuario. Además, se emplea JavaScript para agregar interactividad y mejorar la experiencia del usuario en la página.
-
-  • 📃 El proyecto se estructurará en diferentes módulos y etapas. Se llevará a cabo un levantamiento de requerimientos para identificar las funcionalidades y características clave que debe tener el sitio web. A partir de ahí, se realizará una planificación detallada del proyecto, estableciendo entregas y tiempos para cada etapa, incluyendo la creación de una estructura de base de datos adecuada utilizando PhpMyAdmin.
-
- •  📁 Cada módulo del proyecto será documentado apropiadamente, desde la definición de la estructura de la base de datos, pasando por la implementación del backend y frontend, hasta la documentación del código en cada módulo. Además, se considerará la diagramación UML para asegurar una correcta organización y comprensión del proyecto.
+## Problematica
+Alamo enfrenta el desafío de diferenciarse en un
+mercado altamente competitivo y estar constantemente
+mejorando la experiencia del cliente más allá del simple
+alquiler de vehículos. Aunque la empresa ya ofrece un
+servicio eficiente de alquiler de automóviles, carece de
+una plataforma integral que brinde información turística
+detallada y personalizada a sus clientes, lo que limita su
+capacidad para satisfacer completamente las necesidades y expectativas de los viajeros
 
 # Languages 💻
   • PHP<br>
@@ -26,8 +47,8 @@
 
 # Clone project in github or console VC 🤖
  ```console
-> git clone https://github.com/xMeiker/Tour-guide-website.git
-> cd Tour-guide-website
+> git clone https://github.com/xMeiker/AlamoWeb.git
+> cd AlamoWeb
 ```  
 
 # Version 1.0 ✔
